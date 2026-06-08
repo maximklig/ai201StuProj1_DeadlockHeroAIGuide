@@ -1,0 +1,6 @@
+HERO: Bebop
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Bebop is a D-tier champion with 46.2% win rate and 40.0% pick rate in Patch 2026.

@@ -1,0 +1,62 @@
+HERO: Lash
+SOURCE: https://deadlock.wiki/Lash
+============================================================
+
+## SECTION: Overview
+Tags: Initiator High Flying Arrogant
+Damage Per Second : | 49.3
+Bullet Damage : | 8.46 +0.31
+Ammo : | 29
+Bullets Per Burst : | 3
+Bullets per sec : | 5.83
+Reload Time : | 2.35s
+Bullet Velocity : | 635m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 780 +53
+Health Regen : | 2
+Spirit Resist : | 10%
+Move Speed : | 7.2m/s
+Sprint Speed : | 2.1m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Andrew Bowen
+Release Date : | April 24, 2024
+Lash is a Hero in Deadlock . He is a brutal bruiser of a Hero, eagerly initiating fights and chasing down fleeing opponents. He leaps into combat with his Grappling hook, Flogging his foes with a life-stealing whip and stomping the ground with a Ground Strike that damages multiple targets. If the enemy team groups up, Lash can pick them all up at once and Death Slam them into the ground.
+A champion of the Bear Pit , an underground fight club, Jacob Lash (or just "The Lash") has built a reputation as a tough and unsavoury character.
+
+## SECTION: Ground Strike
+GROUND STRIKE 10 m 21 s
+Stomp the ground beneath you, damaging enemies in front of you. If you perform Ground Strike while airborne, you quickly dive towards the ground. Damage grows slower after 25m.
+Upgrades: 1 -10 s Cooldown ; 2 Struck enemies are knocked up and slowed by 50% for 3s ; 5 Damage Per Meter +110% and improved scaling
+
+## SECTION: Grapple
+GRAPPLE 30 m 1 2 s 35 s
+Pull yourself through the air toward a target. Using Grapple also resets your limit of air jumps and dashes .
+Upgrades: 1 -17 s Cooldown ; 2 +20m Cast Range and gain +7 Weapon Damage for 10s ; 5 +1 Charge OnCast : +1 Stamina and +60% Air Control
+
+## SECTION: Flog
+FLOG 20 m 26 s
+Strike enemies in front of you with your whip, healing for a portion of the damage dealt.
+Upgrades: 1 Apply -35% Move speed for 3s ; 2 Apply -30% Fire Rate -16s Cooldown ; 5 +80 Damage +40 Attack angle +20% Heal
+
+## SECTION: Death Slam
+DEATH SLAM 2.3 s 20 m 150 s
+Focus on enemies to connect whips to them. After channeling, connected enemies are lifted and stunned then slammed into the ground. Your victims and any enemies in the landing zone will be damaged and slowed . Press Fire to throw connected enemies early. Enemies that are not in line of sight or go out of range during the latch time will not be grabbed.
+Upgrades: 1 12 m Max Throw Distance ; 2 -40 s Cooldown ; 5 Stun enemies in Radius for 1.2s +6m Cast Range
+
+## SECTION: Backstory
+See Lash/Lore for more story content.
+
+## SECTION: Trivia
+- Jacob Lash is an asshole.
+- Lash’s parry animation was changed after streamer JoeyCheerio shared feedback during a livestream that was being watched by Valve Senior Animator Jamaal Bradley . He suggested the move should feel more like a heavy, belly-first chest smash, similar to King K. Rool in Super Smash Bros Ultimate. The updated animation was introduced in a later patch, with Bradley stating "we appreciate our players".
+- Lash's name was localized in the Brazilian Portuguese localization as "Chico T.", a pun on the word "chicote" ("whip").
+- The description for Deadlock in Steam Replay 2024 is "Jacob Lash is an asshole."
+- It appears that at some point in development, Lash really did fight with uppercuts, as an ability named Shoryuken was datamined.
+- "Thinking About Lash in the Hideout" is displayed as one's status in the in-game Friends List when playing as Lash in the Hideout .
+- Lash's killstreak voiceline "Winning's my business and business is good" is a possible reference to the Megadeth song Killing Is My Business... And Business Is Good! .
+- Lash's Ground Strike upgrade voice line "They're about to learn that their arms are too short to box with god" is a possible reference to a quote by pro wrestler CM Punk to The Rock in WWE . The phrase was popularized by the 1976 Broadway musical Your Arms Too Short to Box with God .

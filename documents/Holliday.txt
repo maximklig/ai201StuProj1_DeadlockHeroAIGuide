@@ -1,0 +1,57 @@
+HERO: Holliday
+SOURCE: https://deadlock.wiki/Holliday
+============================================================
+
+## SECTION: Overview
+Tags: Crackshot Explosive Apprehender
+Damage Per Second : | 41.7
+Bullet Damage : | 19.7 +1.14
+Ammo : | 10
+Bullets per sec : | 2.12
+Reload Time : | 2.75s
+Bullet Velocity : | 1160m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 780 +43
+Health Regen : | 2
+Move Speed : | 8.2m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 16.1m/s
+Stamina : | 2
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Melanie Minichino
+Release Date : | January 17, 2025
+Codenames: | Astro
+Holliday is a Hero in Deadlock . She is a sheriff, relying on her aim with her trusty heirloom revolver and a litany of abilities to take down her enemies. With a Crackshot of her pistol, she can slow and damage her foes from a distance before launching an explosive Powder Keg with her Bounce Pad or a melee attack. To isolate her foes, she can wrangle them with her Lasso and drag them into the attacks of her allies.
+The granddaughter of the legendary gunslinger Doc Holliday was once a sheriff content with the small-town life. This would all change when a travelling musician known simply as " The Troubadour " began a gruesome killing spree; but when she tracked down and confronted him, he managed to flee. Intending to track him down, Holliday spent six months investigating and deduced that the killer's next target was New York. She's going to kill that evil son of a bitch.
+Holliday was added to Hero Labs on October 24, 2024 , and released officially on January 17, 2025 .
+
+## SECTION: Powder Keg
+POWDER KEG 6 m 1 3.5 s 28 s
+Throw a barrel that explodes after a delay, dealing spirit damage and applying knockup . The barrel can be detonated early by being shot , melee'd , or detonated by another barrel.
+Upgrades: 1 -10 s Cooldown ; 2 58.5 Explosion Damage ; 5 +0.4s Displacement and +2 Charges.
+
+## SECTION: Bounce Pad
+BOUNCE PAD 12 m 22 s 1 3.5 s 41 s
+Drop a bounce pad in the world that launches any hero . You explode on landing, dealing Damage to any nearby enemies. The explosion can only occur once per person per Bounce Pad.
+Upgrades: 1 -10s Cooldown ; 2 You and allies gain a +4m/s move speed bonus for 4s on landing ; 5 +67.5 Stomp Damage. Improve Spirit scaling
+
+## SECTION: Crackshot
+CRACKSHOT 20 s
+Headshots deal bonus Damage and applies a Fading Move Speed penalty . This effect can only occur when off cooldown. Cooldown is reduced by 50% on NPC hits. Crackshot ignores range damage fall-off and does not apply to objectives.
+Upgrades: 1 -25% Fading Move Speed ; 2 49.5 Damage ; 5 -6s Cooldown on Hero Headshots. -3s on NPC Headshots
+
+## SECTION: Spirit Lasso
+SPIRIT LASSO 20 m 2.25 s 115 s
+Throw out your lasso, dealing spirit damage , pulling , and applying stun . Using a Bounce Pad extends the duration of Spirit Lasso.
+Upgrades: 1 80 Damage ; 2 0.75 s Duration ; 5 -50 s Cooldown
+
+## SECTION: Backstory
+See Holliday/Lore for more story content.
+
+## SECTION: Trivia
+- Holliday's weapon was originally called Occult 45 , a pun on the Colt .45 . The current name, Doc's Orders , references the fact that she inherited the revolver from her grandfather Doc Holliday .
+- "Solving Mysteries in the Hideout" is displayed as one's status in the in-game Friends List when playing as Holliday in the Hideout .
+- Back during Hero Labs , Holliday's third ability was originally known as Hat Trick . The ability consisted of Holliday throwing her hat at an enemy, applying slow and allowing her to see them through walls.

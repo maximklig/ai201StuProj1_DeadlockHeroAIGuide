@@ -1,0 +1,65 @@
+HERO: Viscous
+SOURCE: https://deadlock.wiki/Viscous
+============================================================
+
+## SECTION: Overview
+Tags: Evasive Disruptor Gooey
+Damage Per Second : | 49.2
+Bullet Damage : | 10.3 +0.36
+Ammo : | 20
+Bullets per sec : | 4.76
+Reload Time : | 2.5s
+Bullet Velocity : | 254m/s
+Light Melee : | 63 +1.58
+Heavy Melee : | 116 +2.91
+Health : | 780 +47
+Health Regen : | 2
+Move Speed : | 7.2m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.3
+Information
+Pronouns: | He/Him
+Voice Actor: | Yuri Lowenthal
+Release Date : | August 1, 2024
+Viscous is a Hero in Deadlock . He is a vexing opponent with versatile goo abilities, a psychic sea anemone with an ectoplasmic goo body. He can Splatter his foes with a large ball of goo and Puddle Punch both allies and enemies to knock them around, while encasing himself or allies in a Cube of goo for protection. For maximum disruption, Viscous can morph into a large Goo Ball and bounce off of walls and enemies alike.
+Viscous is a psychic sea anemone that fears a dark, dangerous predator that prowls the depths under the Bermuda Triangle. He reached the surface in a body built from ectoplasmic goo; his mission to summon the Patrons to protect his home in the Deep.
+Viscous was added to the roster on August 1, 2024 .
+
+## SECTION: Weapon
+Deep Sea Interpreter has an alternate fire mode, which releases a larger projectile that explodes in a small area of effect upon collision, or after flying for long enough. This alt-fire takes 5 ammo rounds per shot and deals 42 +1.6 damage on a direct hit.The alt-fire mode can be used even with fewer than 5 rounds of ammo, and still deals its full damage.
+
+## SECTION: Splatter
+SPLATTER 5 m 26 s
+Throw a ball of goo that deals damage and leaves puddles of goo behind that apply movement slow to enemies in the radius.
+Multiple hits to the same target deal less damage.
+Goo puddles linger on the ground and apply a movement slow to enemies walking on them. You and your allies slide faster on goo puddles.
+Upgrades: 1 +36 Damage and +2m Radius ; 2 -14 s Cooldown ; 5 Bounces 2 times and improves Spirit Scaling
+
+## SECTION: The Cube
+THE CUBE 26 m 3 s 42 s
+Encase the target in a cube of restorative goo that protects from damage, and increases health regen . Target is unable to take any new actions while cubed. Can be used on self. Press Jump / mantle to escape early.
+After exiting the cube, the target has increased move speed and stamina recovery for a short duration.
+Upgrades: 1 Increases Move Speed and Stamina Recovery ; 2 +25 Health Regen and +1s Duration ; 5 Removes all non-ult Debuffs and -25s Cooldown
+
+## SECTION: Puddle Punch
+PUDDLE PUNCH 40 m 4 m 1 1.7 s 24 s
+Materialize a fist in the world that punches everyone in the area, applying knockup . Punching an enemy deals melee damage and applies slow . You and your allies have increased Air Control.
+Upgrades: 1 +1 Charge and +20 Damage ; 2 +1.5m Radius and +40% Lifesteal ; 5 -12s Cooldown and now deals Heavy Melee Damage
+
+## SECTION: Goo Ball
+GOO BALL 11 s 130 s
+Morph into a large goo ball that deals damage and stuns enemies on impact. The ball grants large amounts of Bullet and Spirit resist, bounces off walls and can double jump .
+Upgrades: 1 -30 s Cooldown ; 2 70 Damage ; 5 +6s Duration and +0.3s Stun Duration
+
+## SECTION: Backstory
+See Viscous/Lore for more story content.
+
+## SECTION: Trivia
+- Viscous was the first new hero to be added in Deadlock after the start of the playtest.
+- Viscous' current model is a modified version of Kelvin's old model from Neon Prime . A work-in-progress alternate model can be found in the files, labeled Viscous v2 , in which he is a large man with a coral arm and an octopus-like creature in his head. A new model labeled Viscous_tourist , in which he wears shorts, sunglasses, an orange cap and a portable camera, has also been referenced in the files and leaked in images in June 2025. The current icon for Goo Ball shows the camera, glove and boot from this new model.
+- In Neon Prime , Viscous was a pufferfish in a suit, instead of a sea anemone.
+- Viscous' head was changed from black to green in the 2024-09-26 Update , because his old icon was easily confused with Dynamo .
+- "Wishing the Hideout was The Cube" is displayed as one's status in the in-game Friends List when playing as Viscous in the Hideout .

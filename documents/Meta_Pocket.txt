@@ -1,0 +1,6 @@
+HERO: Pocket
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Pocket is a C-tier champion with 47.3% win rate and 27.3% pick rate in Patch 2026.

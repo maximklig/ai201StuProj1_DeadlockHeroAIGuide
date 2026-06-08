@@ -1,0 +1,64 @@
+HERO: Victor
+SOURCE: https://deadlock.wiki/Victor
+============================================================
+
+## SECTION: Overview
+Tags: You Can't Kill Me
+Damage Per Second : | 70.2
+Bullet Damage : | 12 +0.26
+Ammo : | 24
+Bullets per sec : | 5.05
+Reload Time : | 2.4s
+Bullet Velocity : | 203m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 800 +36
+Health Regen : | 1.5 x 0.08
+Move Speed : | 6.3m/s
+Sprint Speed : | 1.1m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Jason Spisak
+Release Date : | August 29, 2025
+Codenames: | Frank
+Victor is a Hero in Deadlock who walks the line between life and death. Victor has learned to harness pain, shocking himself with Jumpstart to get his adrenaline rushing and his faulty heart pumping. He welcomes incoming damage with open (albeit mismatched) arms, channeling it into his Pain Battery and granting enemies a taste of the pain he endures. Get too close and risk getting caught in his Aura of Suffering, but hey, at least you'll be suffering together. And just when you think you've taken him down, he'll piece himself back together and live again!
+After waking up in a mortuary table with no memories, Victor wants nothing more than to find out who made him and from whom he is made of.
+Victor was released on August 29, 2025 as the final hero of the Six New Heroes update.
+
+## SECTION: Weapon
+Victor's weapon takes 1.67s to spin up and reach max fire rate and bullet spread.
+
+## SECTION: Pain Battery
+PAIN BATTERY 28 m 2 s
+Taking any damage passively charges up your Pain Battery. Once full, activating the ability fires multiple shocking bolts, dealing spirit damage once per target.
+Upgrades: 1 On Hit: Apply 40% Slow for 2s ; 2 50 Damage ; 5 On Hero Hit: Heal for 15% of your missing health and increased Spirit scaling
+
+## SECTION: Jumpstart
+JUMPSTART 0.35 s 4.5 s 1 8 s 30 s
+Deal spirit damage to yourself. Then, gain bonus regeneration and bonus move speed , decaying over time.
+Upgrades: 1 +3 m Move Speed ; 2 +70 Total HP Regen and -8s Cooldown ; 5 +1 Charge +50% Debuff Resistance Increases spirit scaling
+
+## SECTION: Aura of Suffering
+AURA OF SUFFERING 9 m 8 s 2 s
+Unleash pain, dealing spirit damage over time to both enemies and yourself. The damage continues to increase the longer the ability is channeled, up to a maximum amount.
+Upgrades: 1 Enemies receive 25% Move and Dash Slow ; 2 +6 Min DPS and +34 Max DPS ; 5 Enemies take +15% Damage
+
+## SECTION: Shocking Reanimation
+SHOCKING REANIMATION 3 s 18 m 230 s
+Release a wave after taking lethal damage, applying a diminishing slow . After a brief channel you reanimate, dealing spirit damage and applying stun to nearby enemies.
+Upgrades: 1 While On Cooldown: Gain +15% Fire Rate and 6 Spirit Damage per Bullet ; 2 50 % Rebirth Health ; 5 +150 Damage +1.5 Stun -120s Cooldown
+
+## SECTION: Backstory
+See Victor/Lore for more story content.
+
+## SECTION: Trivia
+- Victor's name is a reference to Victor Frankenstein ; the creator of Frankenstein's monster in Mary Shelly's 1818 novel Frankenstein .
+- Victor's appearance and attractiveness are likely also inspired by Frankenstein's monster's description in the original novel, quote: "I had selected his features as beautiful. Beautiful! Great God! His skin scarcely covered his work of muscles and arteries beneath; his hair was of a lustrous black, and flowing."
+- Victor was one of the heroes in a private build who was accidentally leaked on stream in May 2025, originally named Frank . Victor's model was also leaked when a game tester from Deadlock's private build accidentally posted a bug report about Victor to Deadlock's public forums in July 2025.
+- "Brooding in the Hideout" is displayed as one's status in the in-game Friends List when playing as Victor in the Hideout . He shares this status with Vindicta .
+- Victor has heterochromia . This is likely due to the fact that he is a patchwork of different body parts and they're two different people's eyes.
+- The barbed wire wrapped around Victor's left arm will glow with electricity when Pain Battery is ready to be used.
+- Victor's zipline animation, in which he is dragged by his shoulders while hanging motionless, was likely inspired by a viral video of a man hanging on a zipline in a similar pose. This was suggested on Reddit before Victor was released in the Six New Heroes update, and at the time he used Lash 's zipline animation.

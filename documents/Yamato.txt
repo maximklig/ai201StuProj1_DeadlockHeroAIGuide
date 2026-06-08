@@ -1,0 +1,68 @@
+HERO: Yamato
+SOURCE: https://deadlock.wiki/Yamato
+============================================================
+
+## SECTION: Overview
+Tags: Relentless Acrobatics Pursuer
+Damage Per Second : | 63.2
+Bullet Damage : | 5.31 +0.154
+Pellets per shot : | 5
+Ammo : | 12 x 0.15
+Bullets per sec : | 2.38
+Reload Time : | 2.44s
+Bullet Velocity : | 254m/s
+Light Melee : | 55 +1.58
+Heavy Melee : | 128 +3.68
+Health : | 730 +47
+Health Regen : | 1
+Move Speed : | 8.2m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Release Date : | April 24, 2024
+Yamato is a Hero in Deadlock . She is a close-range assassin using precise strikes and sword attacks to destroy her foes. Conducting a Flying Strike with her grapple to get close, Yamato unleashes her powerful melee attacks along with Power Slash and Crimson Slash attacks to damage, slow, and disable her enemies while healing herself. Once fully engaged, she can unleash her Shadow Transformation to become infused with her brother's shadow soul, becoming unstoppable for a short time while ending the life of her opponents.
+Kaori and her brother were crime lords of the Seventh Moon , bringing in wealth and power to the organization. However, a dispute during expansion led to the death of Kaori's brother and her escape to the United States . A miscommunication once she arrived led to Kaori adopting her brother's name, Yamato, vowing to secure her brother's dream of international presence.
+
+## SECTION: Weapon
+Sister's Lament has an alternate fire that explodes on impact. Alt-fire stats:
+- Takes 3 ammo rounds per shot. Can still be shot for full damage even if Yamato doesn't have enough ammo in the clip.
+- Deals 50 +0.7 damage on a direct hit.
+- Bullets per second: 0.95.
+- Has a DPS value of 47.6 and sustained DPS of 39.
+- Fallof Range: 20m - 58m
+- Cannot crit.
+
+## SECTION: Power Slash
+POWER SLASH 12 s
+Channel to increase damage over 1.4 seconds, then release a fully-charged sword strike . Press Ability 1 or Fire to trigger the strike early, dealing partial damage.
+Upgrades: 1 +40% Movement Slow for 3s ; 2 -4s Ability Cooldown ; 5 +8m Cast Range +150 Damage and Increases Spirit Power scaling
+
+## SECTION: Flying Slash
+FLYING SLASH 28 m 36 s
+Throw a grappling hook to reel yourself towards an enemy, dealing Light melee damage and slowing the target when you arrive.
+Upgrades: 1 -18 s Cooldown ; 2 Gain +40 Spirit Power for 6s ; 5 Can Grapple to allies +15m Cast Range Gains 2 extra charges
+
+## SECTION: Crimson Slash
+CRIMSON SLASH 13 m 16 s
+Slash enemies in front of you, damaging them and slowing their fire rate . If any enemy heroes are hit, you heal .
+Upgrades: 1 On Hit : +30% Melee Damage for 4s ; 2 On Hero Hit : +6% Max Health Heal ; 5 -10s Cooldown and increases scaling
+
+## SECTION: Shadow Transformation
+SHADOW TRANSFORMATION 1.5 s 5 s 130 s
+Become infused with Yamato's shadow soul. After an initial invincible transformation your abilities are refreshed and are 60% faster . You gain immunity to negative status effects and have greatly increased bullet and spirit resist . When you get a hero kill, you heal and the duration is extended.
+Upgrades: 1 +7 Weapon Damage ; 2 +4m Move Speed and -25 Cooldown ; 5 +3s Duration +30% Bullet Resist +30% Spirit Resist
+
+## SECTION: Backstory
+See Yamato/Lore for more story content.
+Born to criminal royalty, Kaori and her brother Yamato always knew they were destined to run The 7th Moon after their father's passing. For years they ran the organization as equals; leading to profit, success, and plans for expansion to the United States. The idea was simple. Kaori would stay in Japan and maintain things at home, while Yamato would travel to America to set up an international presence. Unfortunately for the siblings; this plan didn't sit well with some of their more insecure underlings, who bristled at the idea of being led by Kaori in Japan. The coup was swift and violent. Yamato gave his life protecting Kaori, but in doing so ensured that she and a handful of loyalists were able to escape Japan for America. When she arrived stateside, the contact her brother was supposed to meet greeted her and her retinue. Unfamiliar with the gender of Japanese names, the man addressed her as Yamato. She thought to correct him, but decided that the best way to keep her brother's memory alive was to take his name and live out his dream.
+
+## SECTION: Trivia
+- Yamato's current model is inherited from her original design in Neon Prime . Yoshi has shared early concept art of Yamato's upcoming redesign. An image of Yamato's work-in-progress model redesign was leaked on October 2025. A work-in-progress Yamato face texture was added to the files in the Old Gods, New Blood update. This texture has a natural skin tone, normal head proportions, and a small scar on her upper lip.
+- A popular fan rumor is that Yamato in Neon Prime was an alien obsessed with Japanese culture. This rumor is incorrect, based on what is known about her character and faction from old voice lines and the Neon Prime lore document.
+- Yamato's weapon was originally called Celestial Dynasty .
+- Yamato's original voice actor wasn't a native Japanese speaker. This was changed after she was recast in the 2024-10-10 Update . Developer Kaori has confirmed that her voice actor is not Alpha Takahashi.
+- Yamato's background was originally available in English in an earlier build, before being translated to Japanese.
+- "Reminiscing in the Hideout" is displayed as one's status in the in-game Friends List when playing as Yamato in the Hideout .

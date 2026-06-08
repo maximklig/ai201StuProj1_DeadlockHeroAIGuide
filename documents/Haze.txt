@@ -1,0 +1,56 @@
+HERO: Haze
+SOURCE: https://deadlock.wiki/Haze
+============================================================
+
+## SECTION: Overview
+Tags: Assassin Stealthy Lethal
+Damage Per Second : | 50.1
+Bullet Damage : | 5.26 +0.143
+Ammo : | 25 x 0.5
+Bullets per sec : | 9.52
+Reload Time : | 2.35s
+Bullet Velocity : | 762m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 730 +35
+Health Regen : | 2
+Move Speed : | 8.2m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 16.1m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +0.5
+Information
+Release Date : | April 24, 2024
+Haze is a Hero in Deadlock . She works as a secret agent in the Sandman Division of OSIC , fighting as a devastating assassin character with a specialty in isolating and eliminating her foes. Her Smoke Bomb lets her sneak up on enemies before knocking them out with a Sleep Dagger and unleashing a hail of gunfire at close range. In desperate situations, Haze can enter her Bullet Dance to avoid return fire while dispatching her remaining targets.
+In her position at the Occult Security and Investigation Commission, Haze is regularly tasked with infiltrating the dreams of "Persons of Interest" to determine the threat they pose to the United States. If needed, she will be called upon to terminate those targets that are deemed too dangerous to be left alive.
+
+## SECTION: Sleep Dagger
+SLEEP DAGGER 30 s
+Throw a dagger that damages and sleeps the target. Sleeping targets wake up shortly after being damaged. Throwing a Dagger does not break your invisibility. Sleep Dagger does not interrupt enemies' channeling abilities.
+Upgrades: 1 -8% Bullet Resist Reduction for 6s on wake-up ; 2 -17s Cooldown ; 5 +1s Sleep Duration -50% Move and Dash Speed for 3s on wake-up
+
+## SECTION: Smoke Bomb
+SMOKE BOMB 8 s x 0.1 33 s
+Fade out of sight, becoming invisible and gaining sprint speed . Attacking removes invisibility, but using items does not. Close enemies can see through your invisibility.
+Upgrades: 1 +7 m Invis Sprint Speed ; 2 Enable 2 Ability Charges ; 5 Dispels non-ult debuffs Grants +40% Bullet Lifesteal for 5s
+
+## SECTION: Fixation
+FIXATION 6 s
+Shooting a target increases your bullet damage on that target . Gain one stack per bullet hit, two if the hit is a headshot.
+Upgrades: 1 40 Spirit damage and 15% slow for 2s to target every 20 stacks ; 2 +40 Max Stacks and +5s Duration ; 5 +0.14 per stack Weapon Damage
+
+## SECTION: Bullet Dance
+BULLET DANCE 16 m 3.5 s x 0.03 145 s
+Enter a flurry, firing your weapon at nearby enemies with perfect accuracy and added Bullet Damage.
+Upgrades: 1 +7 Weapon Damage ; 2 +10% Fire Rate +3m Movespeed ; 5 +40% Evasion -75s Cooldown
+
+## SECTION: Backstory
+See Haze/Lore for more story content.
+
+## SECTION: Trivia
+- Haze has a model in the files named "Haze_v2," which includes blue skin and a red beret. Its textures refer to her as "fr_haze" .
+- Haze's voice actress is currently unknown. Developer Kaori said that she is voiced by a prolific performer, and debunked popular fan guesses of Eve Lindley and Meli Grant.
+- Neon Prime "Haze v1" was first leaked within Dota 2 files in October 29th 2020 update . The png is named "clothchain_extrude_twist"
+- The artwork previously used as the game's Steam cover and loading screen showed a slightly older version of Haze wearing a yellow jacket instead of orange.
+- "Sleep Walking in the Hideout" is displayed as one's status in the in-game Friends List when playing as Haze in the Hideout .

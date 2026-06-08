@@ -1,0 +1,66 @@
+HERO: Paige
+SOURCE: https://deadlock.wiki/Paige
+============================================================
+
+## SECTION: Overview
+Tags: Helpful Protector Booksmart
+Damage Per Second : | 70
+Bullet Damage : | 35 +0.52
+Ammo : | 14
+Bullets per sec : | 2
+Reload Time : | 2.5s
+Bullet Velocity : | 43.4m/s
+Light Melee : | 42 +1.2
+Heavy Melee : | 120 +3.43 x 0.3
+Health : | 680 +29
+Health Regen : | 2
+Move Speed : | 6.9m/s
+Sprint Speed : | 3.5m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Jacqueline Emerson
+Release Date : | August 25, 2025
+Codenames: | Bookworm; Patience
+Paige is a Hero in Deadlock . Citizens of Manhattan will learn to appreciate the power of the written word when Paige joins the fight. With the mere toss of a book she can conjure a Bookwyrm that sears enemies who get too close, or bind them to the ground with Captivating Read. Waning allies will find themselves emboldened by Plot Armor, granting them the courage to fight another day. Fantasy becomes reality with Rallying Charge, summoning an entire cavalry to gallop across the city.
+Paige grew up with books, love, and kindness in her family home; but she was at odds with her rebellious younger brother, Bryce. He sought out dangerous occult magics, disappearing one day while Paige's normally-watchful eye was away. Now a talented bibliomancer, Paige seeks answers about her brother's disappearance and will stop at nothing to find the answers.
+Paige was released on August 25, 2025 as the fourth hero of the Six New Heroes update (third winner of hero vote).
+
+## SECTION: Weapon
+Chapter's End's projectiles can pierce through enemies. Items that proc on bullet hit such as Mystic Shot only proc on the first enemy hit.
+Chapter's End does not deal critical damage on headshots, but it does proc headshot items such as Headshot Booster .
+Paige can gain stacks from Split Shot by hitting multiple players with the same projectile.
+
+## SECTION: Bookwyrm
+BOOKWYRM 4 m 5 s 1 7 s 33 s
+Conjure a dragon that appears at the target location before flying forward, dealing spirit damage and leaving a burning path in its trail.
+Upgrades: 1 +2 Trail Duration +1m Radius ; 2 +10m Travel Range -12s Cooldown ; 5 +100 Damage +30 DPS +1 Charge
+
+## SECTION: Plot Armor
+PLOT ARMOR 35 m 5 s 28 s
+Grant an ally a barrier . While the barrier holds, they gain bonus weapon damage .
+Upgrades: 1 On Barrier: +14% Fire Rate ; 2 +100 Barrier and +2s Duration ; 5 Increases barrier scaling. Up to 2 additional allies gain 75% Barrier
+
+## SECTION: Captivating Read
+CAPTIVATING READ 30 m 7.5 m 30 s
+Target an area with latent magic, applying slow . The magic detonates after a delay, dealing spirit damage and applying immobilize .
+Upgrades: 1 -11 s Cooldown ; 2 1 s Immobilize Duration ; 5 +1m Radius On Hit: Reduce Spirit Resist by -18% for 6s
+
+## SECTION: Rallying Charge
+RALLYING CHARGE 0.7 s 600 m 13 s 190 s
+Release a wave of spectral knights and steeds that charge across the entire city , healing allies and dealing spirit damage to enemies. The strength of the heal and spirit damage is amplified as the knights travel further.
+Upgrades: 1 150 Heal Amount ; 2 Increase width by +4 Steeds -30 Cooldown ; 5 +160 Damage +0.5s Stun Duration +50% Max Amp
+
+## SECTION: Backstory
+See Paige/Lore for more story content.
+
+## SECTION: Trivia
+- Paige's name has a double meaning: It can be a reference to the pages of books, as well as the servants of knights and noblemen in medieval times.
+- Paige was one of the heroes in a private build who was accidently leaked on stream in May 2025.
+- Paige was originally named Bookworm , and later renamed to Patience during development, before being changed to her current name. Some voice lines still refer to her as Patience, but that is unintentional.
+- Paige's ability VFX uses text from the book Sir Gawain and the Green Knight and the placeholder Lorem Ipsum text.
+- "Reading in the Hideout" is displayed as one's status in the in-game Friends List when playing as Paige in the Hideout .
+- Bookwyrm was originally named Conjure Dragon , and Plot Armor was originally named Defend and Fight! . These abilities were renamed based on feedback from a Reddit post by user u/CDranzer . Wyrm is an Old English word for "serpent" or "dragon" in Germanic folklore.
+- The book used in Bookwyrm uses textures from TF2's Bombinomicon.

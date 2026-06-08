@@ -1,0 +1,6 @@
+HERO: Venator
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Venator is a D-tier champion with 45.9% win rate and 45.2% pick rate in Patch 2026.

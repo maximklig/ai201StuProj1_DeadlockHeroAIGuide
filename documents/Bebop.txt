@@ -1,0 +1,63 @@
+HERO: Bebop
+SOURCE: https://deadlock.wiki/Bebop
+============================================================
+
+## SECTION: Overview
+Tags: Hook Bomb Punch
+Damage Per Second : | 59.3
+Bullet Damage : | 4.98 +0.115
+Ammo : | 66
+Bullets per sec : | 11.9
+Reload Time : | 2.35s
+Bullet Velocity : | 508m/s
+Light Melee : | 63 +1.58
+Heavy Melee : | 116 +2.91
+Max Range : | 32 +2
+Health : | 880 +55
+Health Regen : | 2.5
+Bullet Resist : | 0% +0.3
+Move Speed : | 6.5m/s
+Sprint Speed : | 4m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 5.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | JB Blanc
+Release Date : | April 24, 2024
+Bebop is a Hero in Deadlock . A modified scrap golem with a big heart and a bigger extendable arm, Bebop is a potent threat on the battlefield when supported by his team. His Grappling Arm can pull friends and enemies alike towards him, saving them from certain doom or guaranteeing it. Bebop can attach Sticky Bombs to nearby foes and launch them in any direction with a powerful Exploding Uppercut. For any foes left standing, Bebop's Hyper Beam can cut across the battlefield and finish them off.
+The mechanical son of a widowed junkyard attendant, Bebop and Ms. Shelly live together at a junkyard, working with scrap metal by day and listening to jazz music by night. But once Ms. Shelly falls ill, Bebop is forced into illegal activities to pay for her medicine, doing whatever he can to save his creator. While Ms. Shelly wouldn't approve of what Bebop does to pay for her medicine, what she doesn't know can't hurt her.
+
+## SECTION: Weapon
+Bebop's weapon has a unique "Max Range" stat (not to be confused with Falloff Range ). His weapon deals no damage beyond its max range. The max range starts at 32m and increases by +2m with boons . It also has a short wind-up time to start shooting. The gun can also be wound-up by zooming with right-click.
+
+## SECTION: Exploding Uppercut
+EXPLODING UPPERCUT 22 s
+Deal melee damage to nearby enemies and apply knockback . When they land, they deal spirit damage and apply reduced fire rate to other nearby enemies. Exploding Uppercut can be used on allies.
+Upgrades: 1 -11 s Cooldown ; 2 On Hero Hit: Gain fast spin-up time, 2x weapon range and +30% weapon damage for 9s ; 5 On Hero Hit: Set Grapple Arm cooldown to 0 and restores +17% of your missing health
+
+## SECTION: Sticky Bomb
+STICKY BOMB 6 m 8 m 3.5 s 18 s
+Attach a bomb that explodes after a delay, dealing spirit damage to nearby enemies. If the bomb hits or kills a hero, you gain permanent bonus damage on Sticky Bomb. Stacks diminish by half after 60 hits and 7 kills
+Upgrades: 1 -8 s Cooldown ; 2 85 Damage ; 5 On Cast: +5m Move Speed and +20% Fire Rate for 5s
+
+## SECTION: Grapple Arm
+GRAPPLE ARM 30 m 23 s
+Launch out a mechanical hand that pulls the first character it hits, reeling them in. Grapple Arm can be used on allies.
+Upgrades: 1 +20% weapon damage against victims for 6s ; 2 30 m Cast Range ; 5 -11.5 s Cooldown
+
+## SECTION: Hyper Beam
+HYPER BEAM 11 s 105 s
+Channel a powerful torrent of energy that deals spirit damage and applies slow .
+Upgrades: 1 -25 s Cooldown ; 2 108 Damage Per Second ; 5 Hyper Beam heals Bebop for 65% of its damage on Heroes. 20% on non-hero
+
+## SECTION: Backstory
+See Bebop/Lore for more story content.
+
+## SECTION: Trivia
+- Bebop's current model is inherited from his original design in Neon Prime . His previous portrait artwork was different from his in-game model and possibly hints at what his final design will be like. This updated design can also be seen in The Binding of Oathkeeper Chapter 5D.
+- Bebop is voiced by JB Blanc , who is known for voiceworks in many popular videogames (e.g. Diablo in Diablo III , Braum in League of Legends , Saxton Hale in Team Fortress 2 , etc.).
+- Bebop is named after the jazz style bebop . During Hyper Beam, a saxophone-like instrument can be heard playing erratically, akin to jazz improvisation. The songs Giant Steps by John Coltrane and Bebop by Charlie Parker are possible references for the Hyper Beam SFX variants.
+- Despite having been made in America, Bebop has a Cockney accent, commonly spoken in England by working-class Londoners.
+- "Ignoring Lash in the Hideout" is displayed as one's status in the in-game Friends List when playing as Bebop in the Hideout .
+- Bebop's Grappling Arm being depicted as a Hook is a reference to Dota 2, where Pudge has a nearly identical ability called Meat Hook.

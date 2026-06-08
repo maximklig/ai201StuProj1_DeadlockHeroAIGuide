@@ -1,0 +1,71 @@
+HERO: Celeste
+SOURCE: https://deadlock.wiki/Celeste
+============================================================
+
+## SECTION: Overview
+Tags: Performer Disruptive Dazzling
+Damage Per Second : | 31
+Bullet Damage : | 18 +0.82
+Ammo : | 8
+Bullets per sec : | 1.72
+Reload Time : | 2s
+Bullet Velocity : | 50m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Crit Bonus Scale : | -25%
+Health : | 690 +35
+Health Regen : | 1
+Move Speed : | 6.2m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 16.1m/s
+Stamina : | 4
+Stamina Cooldown : | 5s
+Spirit Power : | 0 +1.1
+Information
+Release Date : | February 9 2026
+Codenames: | Unicorn, Pepper
+Celeste is a Hero in Deadlock . It's not every day that Coney Island's biggest star, The Dazzling Celeste, performs on the streets of Manhattan. Her show begins with Light Eater, where a deep breath lit by her blazing baton coats enemies in front of her, and grants increased damage against them. Following that up, she envelops herself in the prismatic shield of her Dazzling Trick, which explodes and silences nearby enemies who break it. Try not to get distracted by her gliding gracefully through the air, or by the dance of her Radiant Daggers, as you'll regret being underneath them when they rain down from above. As for her memorable final act, the Shining Wonder will make her allies go OOH and her foes go AGGHHH!
+A popular attraction at Coney Island, "The dazzling Celeste" isn't a carnie with a horn glued to her head: she's actually a unicorn. As unicorns are nothing more than a myth in the eyes of the public, Celeste hides her true identity out of fear of getting poached for her horn. However, when one of her found family members on the sideshow loses part of their soul in a gambling debt, Celeste is prepared to risk revealing her identity if it means helping her family.
+Celeste was released on February 9, 2026 as the fifth winner of the Old Gods, New Blood update contest.
+
+## SECTION: Innate
+Celeste has a passive that alters her aerial movement:
+- -25% Gravity Scale
+- +44% Air Control
+- +10% Air Acceleration
+
+## SECTION: Weapon
+Carny Life's projectile flies in an arc and bounces on the first surface it hits. If there's an enemy in range at a narrow angle (~45º) from the shot, the projectile flies in their direction. If shot directly at an enemy, the projectile can ricochet to a second enemy at close distance and aligned at a narrow angle.
+Split Shot generates 3 multishots at 70° spread.
+
+## SECTION: Light Eater
+LIGHT EATER 10 m 8 s x 0.05 20 s
+Blast enemies in a cone in front of you with a flare of light. Blasted enemies take spirit damage when attacked by Celeste and provides her spirit lifesteal .
+Upgrades: 1 +15 % Spirit Lifesteal ; 2 -10s Cooldown and +3m Cast Range ; 5 +25 Damage and Increased Spirit Scaling
+
+## SECTION: Dazzling Trick
+DAZZLING TRICK 35 s
+Surround yourself in a protective prism. If the barrier is destroyed, it silences nearby enemies and deals a portion of the barrier as damage.
+Upgrades: 1 +3.5 m Move Speed ; 2 +80 Barrier and Increased Barrier Spirit Scaling ; 5 +1.5 Silence Duration and -18 Cooldown. Allows Shining Wonder Bounce.
+
+## SECTION: Radiant Daggers
+RADIANT DAGGERS 30 m 1 2 s 33 s
+Call down a beam of light from the sky. After a short duration, the beam will fully form, causing an explosion that deals spirit damage to all targets in the area. Celeste will receive a stacking buff that increases her spirit damage anytime this hits an enemy hero.
+Upgrades: 1 2 Charges ; 2 -22s Cooldown and +80 Impact Damage ; 5 9 % Fire Rate per Stack +3 % Spirit Amp per Stack
+
+## SECTION: Shining Wonder
+SHINING WONDER 140 s
+Launch a deadly orb of light that deals spirit damage and applies slow and reduces Dash Distance on impact. The orb then bounces to the enemies within range. If no target is found, the orb will linger for a short duration while continuing to look for targets. Prioritizes enemy heroes when picking targets.
+Upgrades: 1 -20% Move Speed and -15% Dash Distance ; 2 70 Damage ; 5 +8 Max Bounces and -35s Cooldown
+
+## SECTION: Backstory
+See Celeste/Lore for more story content.
+
+## SECTION: Trivia
+- Celeste was named Pepper during early development.
+- Celeste's appearance alludes to tattooed ladies who worked as sideshow attractions in the 19th and 20th centuries.
+- Celeste has unique poses for different directions of her air dash.
+- Celeste's Shining Wonder is nearly identical to Lich's Chain Frost ability from Dota 2 and is similar to the "Skipshot" ability of the unreleased hero Boho . There are cut voice lines that indicate Celeste was originally capable of using Dazzling Trick on allies as well as herself, furthering her similarities with Lich.
+- Celeste had the most votes from a single player in the Old Gods, New Blood hero contest, at 813.
+- Chickenwing and Ted were both teased 3 months before Celeste's backstory was revealed, in a joke post by developer Hopoo .
+- "Cleaning Up Glitter in the Hideout" is displayed as one's status in the in-game Friends List when playing as Celeste in the Hideout .

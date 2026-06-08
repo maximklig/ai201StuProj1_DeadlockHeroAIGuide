@@ -1,0 +1,6 @@
+HERO: Mirage
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Mirage is a C-tier champion with 47.6% win rate and 20.2% pick rate in Patch 2026.

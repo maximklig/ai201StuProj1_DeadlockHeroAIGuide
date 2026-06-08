@@ -1,0 +1,6 @@
+HERO: Mina
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Mina is a D-tier champion with 45.2% win rate and 34.3% pick rate in Patch 2026.

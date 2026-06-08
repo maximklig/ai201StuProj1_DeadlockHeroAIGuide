@@ -1,0 +1,67 @@
+HERO: Venator
+SOURCE: https://deadlock.wiki/Venator
+============================================================
+
+## SECTION: Overview
+Tags: Devout Arms Expert Tactical
+Damage Per Second : | 63.5
+Bullet Damage : | 8 +0.27
+Ammo : | 33
+Bullets per sec : | 7.94
+Reload Time : | 2.8s
+Bullet Velocity : | 1590m/s
+Light Melee : | 50 +1.7
+Heavy Melee : | 125 +4.25
+Health : | 820 +45
+Health Regen : | 2
+Bullet Resist : | 0% x 0.122
+Spirit Resist : | 0% x 0.122
+Move Speed : | 6.4m/s
+Sprint Speed : | 1.5m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Release Date : | February 5, 2026
+Codenames: | Priest; Rourke; Cain
+Venator is a Hero in Deadlock . He doesn't walk the righteous path, he blazes the trail so that others may do so safely. His biggest challenge is knowing which weapon to use first. Firing a Consecrating Grenade into the fray softens up his enemies and keeps them from restoring health, and his Hex-Lined Snap Trap scatters across the ground to lock them in place. A Gutshot from his shotgun will knock back enemies who get too close, and when the time is right, Ira Domini will rid the world of evil once and for all.
+A relentless monster hunter, Father Quinn Rourke represents the righteous wrath and fury of the Venators of Saint Benedict. Sent by his superiors at the Vatican, the Venator has been designated a mission: to annihilate the evil stirring in New York.
+Venator was released on February 5, 2026 as the fourth winner of the Old Gods, New Blood update contest.
+
+## SECTION: Consecrating Grenade
+CONSECRATING GRENADE 4.5 m 25 s
+Fire a grenade that bounces before exploding, dealing weapon damage and setting enemies on fire. Burning targets deal pure damage to enemies in the area and suffer from reduced healing .
+Upgrades: 1 -5 s Cooldown ; 2 +1.5m Radius & +1s Burn Duration ; 5 -20% Healing Reduction and allow Charges
+
+## SECTION: Gutshot
+GUTSHOT 10 m 23 s
+Fire a blast with your shotgun, dealing weapon damage and pushing enemies back. Enemies near a wall receive stun and take bonus weapon damage .
+Upgrades: 1 25 Damage ; 2 -10s Ability Cooldown and +0.4s Stun Duration ; 5 On Wall Stun: Your next heavy melee is blessed
+
+## SECTION: Hex-Lined Snap Trap
+HEX-LINED SNAP TRAP 2 m 2 8 s 28 s
+Kick a trap that arms after a brief delay. The trap springs on the first enemy it touches, dealing spirit damage , applying immobilize , and revealing enemies for a duration afterwards.
+Upgrades: 1 -11 s Cooldown ; 2 1 s Immobilize Duration ; 5 +1 Charge Deal +30% damage against revealed targets
+
+## SECTION: Ira Domini
+IRA DOMINI 15 s 140 s
+Load your crossbow with 3 stakes , dealing massively increased weapon damage . The final stake is blessed , dealing bonus pure damage and executing low-health enemies.
+Upgrades: 1 While Active: Gain 1.2 m/s Move Speed ; 2 -15s Ability Cooldown and +65 Bonus Damage ; 5 All Stakes are Blessed
+
+## SECTION: Backstory
+See Venator/Lore for more story content.
+
+## SECTION: Trivia
+- "Venator" means "hunter" in Latin.
+- Venator's weapon is named after the Bible passage Jeremiah 51:20: "Thou art my battle axe and weapons of war: for with thee will I break in pieces the nations, and with thee will I destroy kingdoms".
+- One of Venator's voice lines for upgrading Gutshot , "I long for the day when this will be a plowshare" references the phase " beating swords into plowshares " which comes from the Bible passage Isaiah 2:4.
+- His ultimate ability, "Ira Domini", translates to "Wrath of the Lord" in Latin.
+- Venator was one of the heroes in a private build who was accidently leaked on stream in May 2025. A playable version of Venator was added to the files in the Shop Rework Update . A new Venator portrait was leaked in a work-in-progress hero select screen posted on 4chan in July 2025. On 20th January 2026 , Venator was teased in the Hideout with a thurible on a bookshelf.
+- Before his release, Venator had voice lines calling him by his last name "Rourke", indicating it may have been his hero name at some point in development. The Doorman has voice lines calling Venator "Cain", indicating it may have been his first name before "Quinn".
+- Venator originally had the Shopkeeper voice actor as a temp VO, who made self-aware jokes about his role. The female temp voice (currently on Boho ) called him "the bodega guy".
+- Prior to the Six New Heroes Update , Venator had an ability called "Potent Vapors", a channel which would heal Venator and grant him movement slow resist at the cost of him being unable to attack throughout its channel. This ability was replaced with Consecrating Grenade. Additionally, prior to the Old Gods, New Blood update, Venator used to have an ability called "Penace and Retribution", a passive that would grant Venator stacking bullet and spirit resistances as he took sustained damage. This ability was replaced with Hex-Lined Snap Trap.
+- "Blessing Ammunition in the Hideout" is displayed as one's status in the in-game Friends List when playing as Venator in the Hideout .
+- Venator's selection voice line "Ours is not to question what is necessary. Ours is to have the will to do whatever it takes" is likely a reference to Alfred Tennyson's poem The Charge of the Light Brigade : "Theirs not to make reply, Theirs not to reason why, Theirs but to do and die".
+- Venator had the largest winning margin in the Old Gods, New Blood hero contest, winning by an 11% difference over Celeste .
+- Venator's weapon appears to be loosely based on a Heckler & Koch MP5, which officially entered service in 1966 but was designed as early as 1964. Additionally its under-barrel grenade launcher has been decorated to resemble a typical Ave Maria "Votive candle" commonly found in Catholic home altars. This is also coupled with some Rosary beads in place of a sling harness.

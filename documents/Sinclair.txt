@@ -1,0 +1,66 @@
+HERO: Sinclair
+SOURCE: https://deadlock.wiki/Sinclair
+============================================================
+
+## SECTION: Overview
+Tags: Trickster Copycat Versatile
+Damage Per Second : | 48.3
+Bullet Damage : | 17.8 +0.55
+Ammo : | 16
+Bullets Per Burst : | 2
+Bullets per sec : | 2.72
+Reload Time : | 2.5s
+Bullet Velocity : | 300m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 730 +40
+Health Regen : | 2
+Move Speed : | 7.2m/s x 0.0138
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.3
+Information
+Pronouns: | They/Them
+Voice Actor: | Harron Atkins (Henry); Andia Winslow (Savannah)
+Release Date : | January 17, 2025
+Codenames: | Magician
+Sinclair are Heroes in Deadlock . With their trusty magic wand, they can shoot unpredictable Bolts to surprise enemies and use magic to turn them into Rabbits. The Spectral Assistant amplifies their damage and can serve as a fast escape route. Sinclair can even turn their enemies' abilities against themselves with their surprising final trick, Audience Participation.
+Henry and Savannah were two young stage magicians in love, who bound their souls to each other for eternity. However, their relationship was strained after a tragic on-stage accident claimed both of their lives. Now, under the shared title of Sinclair, they seek a way to be separated and find peace in the afterlife.
+Sinclair was added to Hero Labs (as Magician ) on October 24, 2024 , and officially released on January 17, 2025 (as THE MAGNIFICENT SINCLAIR ).
+
+## SECTION: Vexing Bolt
+VEXING BOLT 500 m 3.25 m 1 3 s 24 s
+Fire a bolt of magic that deals Damage , increasing as it travels . If you have an Assistant , they also cast Vexing Bolt at reduced damage. Press Ability 1 to redirect the bolt towards your crosshairs.
+Upgrades: 1 Bolts apply -25% Fire Rate for 5 s. ; 2 -13 s Cooldown ; 5 +126 Max Damage. + 50% Assistant Damage.
+
+## SECTION: Spectral Assistant
+SPECTRAL ASSISTANT 15 m 6 s 40 s
+Summon an Assistant at the targeted location. The Assistant attacks whenever you fire your weapon, dealing Damage . While the Assistant is out, you can press Ability 2 to swap positions with your Assistant . Casting Spectral Assistant also reloads your weapon.
+Upgrades: 1 -10 s Cooldown ; 2 +7s Duration & 5m Range ; 5 +60% Fire Rate and + 12.6 Assistant Damage
+
+## SECTION: Rabbit Hex
+RABBIT HEX 24 m 6.5 m 26 s
+Hex a target area and transforming all enemies into a Rabbit for a limited duration. Rabbits are small and move faster , but take increased Damage and are unable to perform most actions . Hex does not interrupt abilities.
+Upgrades: 1 -10 s Cooldown ; 2 1 s Hex Duration ; 5 +7% Damage Amp and +3m Radius
+
+## SECTION: Audience Participation
+AUDIENCE PARTICIPATION 20 m 85 s
+Copy the Ultimate of an enemy hero for a limited time. Reactivating the ability will use the Copied Ultimate instead. Copies will inherit this ability's upgrade points. Audience Participation will also copy the cooldown.
+Upgrades: 1 Upgrade the Copy. ; 2 Upgrade the Copy AGAIN! ; 5 Upgrade the Copy ONCE AGAIN!
+
+## SECTION: Backstory
+See Sinclair/Lore for more story content.
+
+## SECTION: Trivia
+- Sinclair changes voices on death, depending on which ghost is controlling the body. It starts as Henry's voice, then changes to Savannah's when Henry dies and vice-versa.
+- Sinclair's weapon name The Prestige is a possible reference to the Christopher Priest's novel of the same name (which was adapted to movie by Christopher and Jonathan Nolan in 2006). The weapon was previously named Legerdemain and Magic Wand .
+- Sinclair's current design is based on one of the scrapped designs for Wraith . It is also used in a Metal Skin advert.
+- Sinclair's lead developer is Hopoo , best known as the co-creator of the Risk of Rain series.
+- The Spectral Assistant currently uses a modified version of Lady Geist 's original model prior to the Six Heroes update .
+- Sinclair's bunny uses the same model as Arnabus the Fairy Rabbit from Dota 2 .
+- Savannah's voice actor, Andia Winslow, also plays the role of Allie Kinkaid in Holliday's visual novel .
+- "Working Magic in the Hideout" is displayed as one's status in the in-game Friends List when playing as Sinclair in the Hideout .
+- When copying Yamato 's Shadow Transformation , the description shows "Become infused with Sinclair's shadow soul." instead of 'Become infused with Yamato's shadow soul."
+- If a hero has a voice line warning against a specific enemy ultimate, that voice line is triggered if the enemy Sinclair copies and uses that ultimate.

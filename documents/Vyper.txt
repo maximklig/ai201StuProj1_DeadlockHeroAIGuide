@@ -1,0 +1,61 @@
+HERO: Vyper
+SOURCE: https://deadlock.wiki/Vyper
+============================================================
+
+## SECTION: Overview
+Tags: Gunner Slippery Rat-a-Tat
+Damage Per Second : | 94
+Bullet Damage : | 6.58 +0.178
+Ammo : | 24
+Bullets per sec : | 14.3
+Reload Time : | 1.6s
+Bullet Velocity : | 412m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Crit Bonus Scale : | -30%
+Health : | 780 +37
+Health Regen : | 2
+Move Speed : | 6.9m/s x 0.0138
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 4
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Stephanie Kerbis
+Release Date : | January 17, 2025
+Codenames: | Viper, Kali
+Vyper is a Hero in Deadlock . After Slithering across the battlefield to swiftly avoid enemy attacks while spraying them with copious amount of bullets, Vyper can inject retreating foes with Lethal Venom to finish them off and use her Screwjab Dagger to hit faraway targets. By slinging her Petrifying Bolas, Vyper will make sure that her targets won't get away from her.
+Vyper is an impulsive outlaw that gets thrown in jail as many times as she escapes it, building a reputation among a number of criminal allies and enemies across the New Jersey Tri-State Area .
+Vyper was added to Hero Labs as "Viper" on October 24, 2024 , and officially released on January 17, 2025 .
+
+## SECTION: Screwjab Dagger
+SCREWJAB DAGGER 2 4 s 10 s
+Throw a dagger, dealing spirit damage and applying slow . Every subsequent dagger against the same target stacks in spirit damage and slow .
+Upgrades: 1 1 Charges ; 2 On Hit: -8% Bullet Resist and -6% Bullet Resist per Stack ; 5 + 2 Max Stacks On Hit: Refund 55% Charge Cooldown
+
+## SECTION: Lethal Venom
+LETHAL VENOM 10 m x 0.2 28 s
+Inject a target with lethal venom. After a delay the venom triggers, dealing Spirit Damage . The damage is increased by the target's missing health. Lethal Venom will ignore Petrify's damage block.
+Upgrades: 1 31.5 Max Venom Damage ; 2 -40% Healing Reduction and -12s Cooldown ; 5 Bullets also build up Lethal Venom
+
+## SECTION: Slither
+SLITHER
+You have increased Slide Distance, can Slide up hills, and can turn faster while Sliding.
+Upgrades: 1 +20 % Slide Distance ; 2 +2 Stamina ; 5 On Slide: Gain 180 barrier for 5s
+
+## SECTION: Petrifying Bola
+PETRIFYING BOLA 8 m 90 s
+Throw an explosive bola. On exploding, the bola Slows and Damages all enemies in the area. Direct hits deal Additional Damage and Petrify instead. Petrified units block all damage, but cannot take actions.
+Upgrades: 1 49.5 Petrify Damage ; 2 -25 s Cooldown ; 5 + 1s Petrify Duration. Petrifies all enemies in the area.
+
+## SECTION: Backstory
+See Vyper/Lore for more story content.
+
+## SECTION: Trivia
+- Vyper's current appearance is a modified version of Neon Prime 's Kali . Vyper's files also replaced some of Kali's original files.
+- Vyper's lead developer is Hopoo , best known as the co-creator of the Risk of Rain series.
+- A work-in-progress Vyper redesign model was leaked in May 2025. This model had a Cobra hood, a snake body instead of legs, no clothes, and a "WIP" sticker on the back. Ironically, real vipers don't have a hood.
+- Before the 2025-10-02 Update , Vyper was the only hero who started with an unlocked ability by default (Slither).
+- According to her voice actress Stephanie Kerbis, Vyper is "not from Wisconsin or New Jersey".
+- "Making Pruno in the Hideout" is displayed as one's status in the in-game Friends List when playing as Vyper in the Hideout .

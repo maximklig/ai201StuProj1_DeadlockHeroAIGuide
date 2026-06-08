@@ -1,0 +1,62 @@
+HERO: Mo & Krill
+SOURCE: https://deadlock.wiki/Mo_&_Krill
+============================================================
+
+## SECTION: Overview
+Tags: Tag-Team Initiator Burrower
+Damage Per Second : | 59.7
+Bullet Damage : | 2.82 +0.0847
+Pellets per shot : | 4
+Ammo : | 20
+Bullets per sec : | 5.29
+Reload Time : | 2.82s
+Bullet Velocity : | 320m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 930 +68
+Health Regen : | 1
+Crit Reduction : | 20%
+Move Speed : | 8m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Ray Chase
+Release Date : | April 24, 2024
+Codenames: | Krill; Digger; Grappler; Pouncer and Driller
+— Krill
+Mo & Krill are Heroes in Deadlock . Fighting together, they are a disruptive and mobile pair that can burrow around the battlefield and leave their enemies in ruins. Beginning encounters with Burrow can let Mo & Krill pop out on unsuspecting enemies, attacking them with Scorn to damage and Sand Blast to disarm them. With the support of their team, they can Combo one targeted enemy to pin their target in place while the rest of their allies unleash their attacks.
+Members of The Tunnel Rats , Maurice and Krill are smugglers and illicit traders who make the underground of New York their home. Rival gangs that try to exploit these tunnel systems for their own gain will rapidly discover how protective and deadly this pair of smugglers can be.
+
+## SECTION: Scorn
+SCORN 9 m 13 s
+Deal damage to nearby enemies and heal yourself based on the damage done. Heal is stronger against enemy heroes.
+Upgrades: 1 35 Damage ; 2 -5s Cooldown +1m Radius ; 5 Adds a debuff to enemies that lets Mo & Krill deal +15% Damage to them. Stacks and lasts 16s.
+
+## SECTION: Burrow
+BURROW 5 s 5 m 40 s
+Burrow underground, moving faster, and gaining spirit and bullet armor . Damage from enemy heroes will reduce the speed bonus. When you jump out, deal spirit damage , slow , and knockup .
+Upgrades: 1 +50 Spin DPS ; 2 +4s Burrow time and +2 radius ; 5 -20 Cooldown and +4m/s Move Speed
+
+## SECTION: Sand Blast
+SAND BLAST 25 m 2.5 s 40 s
+Spray sand that disarms enemies in front of you and deals damage .
+Upgrades: 1 +50 Damage and +5m Range ; 2 Slow targets by -25% and reduces dash distances by -25% ; 5 +1.5s Duration and -20 Cooldown
+
+## SECTION: Combo
+COMBO 2.4 s 4 m 130 s
+Hold the target in place, stunning them and dealing damage during the channel. If they die during, or within 3 seconds of Combo ending, you permanently gain max health.
+Upgrades: 1 +100% lifesteal ; 2 -35s Cooldown and +50% Bullet Resist ; 5 +0.7s Duration and +40 Damage Per Second and increased scaling
+
+## SECTION: Backstory
+See Mo & Krill/Lore for more story content.
+
+## SECTION: Trivia
+- Krill is the only one of the duo who has voice lines. However, Mo's grunts can be heard during Combo.
+- Krill's model was inherited from Neon Prime .
+- In a now removed voice line, McGinnis referred to Krill as a rat.
+- Both Mo and Krills' heads are capable of being headshot, but Mo's head has 20% headshot damage reduction.
+- Mo & Krill have a unique conversation with Holliday in the files titled "Troubadour", hinting that they will appear in Holliday's visual novel .
+- "Relaxing in the Hideout" is displayed as one's status in the in-game Friends List when playing as Mo & Krill in the Hideout .

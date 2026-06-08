@@ -1,0 +1,6 @@
+HERO: Victor
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Victor is a S-tier champion with 55.8% win rate and 41.7% pick rate in Patch 2026.

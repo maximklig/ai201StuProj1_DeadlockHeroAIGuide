@@ -1,0 +1,83 @@
+HERO: Shiv
+SOURCE: https://deadlock.wiki/Shiv
+============================================================
+
+## SECTION: Overview
+Tags: Rage Bleed Repeat
+Damage Per Second : | 52.2
+Bullet Damage : | 4.8 +0.165
+Pellets per shot : | 6
+Ammo : | 10
+Bullets per sec : | 1.81
+Reload Time : | 2.8s
+Bullet Velocity : | 610m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 830 +48
+Health Regen : | 2
+Move Speed : | 6.5m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 5.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Greg Chun
+Release Date : | August 15, 2024
+Shiv is a Hero in Deadlock . Seeking atonement for his past life, Shiv is a cutthroat monster hunter with a cause, conducting hit-and-run attacks and picking off vulnerable targets. Shiv can efficiently traverse the battlefield and catch up with his targets by making full use of his shotgun's recoil. Flinging Serrated Knives to bleed his foes from range, Shiv initiates close quarters combat on his terms by dashing to them while Slicing and Dicing through those standing in his way. By continuously dealing damage, Shiv builds Rage which enhances his abilities and allows him to be a one man army. Withstanding grievous damage via Bloodletting, Shiv finishes off dying targets with a devastating Killing Blow.
+A former criminal, Shiv seeks to make up for his mistakes by hunting down monsters on behalf of The Baxter Society .
+Shiv was added to the roster on August 15, 2024 .
+
+## SECTION: Weapon
+Shiv's alternate fire takes 3 ammo rounds per shot, and has a recoil that can be used for movement. The alt-fire deals 4.36 +0.165 damage per pellet, at 12 pellets per shot (52.32 total).
+
+## SECTION: Serrated Knives
+SERRATED KNIVES 0.2 s 2 2 s 18 s
+Throw a knife that bleeds an enemy. Each additional hit adds a stack and refreshes the bleed duration, causing the bleed to increase per stack.
+Ultimate Unlock: While rage is full knives will ricochet to another enemy and apply a slow to enemies they bleed.
+Upgrades: 1 2 s Bleed Duration ; 2 +2 Charges ; 5 +12 Bleed DPS with increased Spirit scaling
+
+## SECTION: Slice and Dice
+SLICE AND DICE 16 s
+Perform a dash forward, damaging enemies along the path . Hit Enemies have their spirit resist reduced. This debuff can stack.
+Ultimate Unlock: While rage is full an echo of Shiv retraces the dash path after a short delay, damaging enemies again.
+Upgrades: 1 -6 s Cooldown ; 2 -6% Spirit Resist +2m Dash Range ; 5 +50 Impact Damage -2s Cooldown per Hero hit.
+
+## SECTION: Bloodletting
+BLOODLETTING 20 s
+Take only a portion of incoming damage immediately and defer the rest to be taken over time. Activate to clear a portion of the deferred damage .
+Ultimate Unlock: While rage is full the amount of damage deferred is increased.
+Upgrades: 1 -10 s Cooldown ; 2 15 % Incoming Damage Deferred ; 5 50 % Deferred Damage Cleared
+
+## SECTION: Killing Blow
+KILLING BLOW 18 m 125 s
+Active: Leap forward, dealing spirit damage to the first enemy hero. If they are below the kill threshold , execute them instead.
+Passive: Damaging enemies fills you with rage. While at full rage, Shiv gains increased damage and unlocks special properties on his other abilities.
+Upgrades: 1 Gain +2 m/s move speed while at full rage. ; 2 +10% Full Rage Bonus Damage -30s Cooldown ; 5 +5% Enemy Health Threshold Finishing an enemy with Killing Blow lets you recast for 20s
+
+## SECTION: Rage
+After unlocking Shiv's Killing Blow ultimate, rage can be built by dealing any damage. The amount of rage built varies depending on the source.
+Rage has a max value of 10 which is required to be filled before becoming Enraged , granting you the full rage bonuses.
+Damage type | Rage built per damage dealt
+Weapon Damage | 0.0158766
+Spirit Damage | 0.01452864
+Light melee | 1.55664
+Heavy melee | 2.85384
+Rage will begin to decay after 12 seconds of not dealing any damage, at a rate of 0.25 per second (43 seconds total).
+Rage only builds up from damage dealt to players (this includes Barriers ).
+NOTE: These numbers are taken from the code for the game, but rage built per damage does not actually reflect in game values.
+As a rule of thumb: Rage built from Weapon Damage and Melee Damage does not noticeably change with increases to weapon or spirit power, always taking roughly 18 shots at point blank or 4-7 Melee attacks (depending on strength) to build max rage. Rage built from Spirit Damage does scale with spirit power granting more rage the more damage your abilities do, however this is offset by the rage you build decreasing with spirit power, 100 Spirit power halving the rage built (Imbued spirit power from Surge of Power is not counted towards this, causing it to grant a lot more rage (to the imbued ability) than Boundless Spirit .)
+
+## SECTION: Backstory
+See Shiv/Lore for more story content.
+
+## SECTION: Trivia
+- Shiv has an alternate model in the game files titled "shiv_ult.vmdl_c" which shows an unfinished giant mole transformation, presumably meant for an old ultimate ability.
+- Shiv is voiced by Greg Chun , who also voices Pocket .
+- In now removed voice lines, the Patrons said that Shiv "had been" a father and had a "monster inside him" called "The Beast". These lines were removed in the Old Gods, New Blood update.
+- Shiv used to collect hairspray cans in Neon Prime , presumably as an old version of his Rage passive ability.
+- Shiv's pre-release ultimate ability, Haunt was nearly identical to Lifestealer's Infest ability from Dota 2 and had him become surrounded by bats before leaping inside an enemy hero.
+- Shiv's weapon name, the Busted Flush , is a hand in Poker of four cards of the same suit (colour and type) and one of a different suit. It's also an expression referring to a promising thing that ends up failing its potential.
+- Shiv carries an amulet on his hip with a design similar to the blood key from the movie Demon Knight . The amulet glows red when Shiv is at full Rage.
+- "Playing With Knives in the Hideout" is displayed as one's status in the in-game Friends List when playing as Shiv in the Hideout .
+- Bloodletting allows Shiv to tank the instant kill damage from Killing Blow if it is copied by Sinclair , and the lethal damage of the Street Brawl item Unstable Concoction .

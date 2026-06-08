@@ -1,0 +1,62 @@
+HERO: Seven
+SOURCE: https://deadlock.wiki/Seven
+============================================================
+
+## SECTION: Overview
+Tags: High Voltage Merciless Area Denial
+Damage Per Second : | 63
+Bullet Damage : | 10.8 +0.337
+Ammo : | 29
+Bullets Per Burst : | 3
+Bullets per sec : | 5.83
+Reload Time : | 2.35s
+Bullet Velocity : | 635m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 730 +43
+Health Regen : | 1
+Crit Reduction : | 55%
+Move Speed : | 6.7m/s
+Sprint Speed : | 1.8m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Oliver Vaquer
+Release Date : | April 24, 2024
+Codenames: | Gigawatt
+Seven is a Hero in Deadlock . A megalomaniac who aims to continuously grow his power, Seven excels in rapidly taking control of the battlefield by denying areas with Lightning Balls and Surging his gun to punish his foes for staying close together. After putting his enemies in their place with Static Charge, Seven is free to discharge himself into a Storm Cloud and fry them alive.
+It is unknown what actions led to Seven being imprisoned within Lost Whisper . However, Seven managed to turn what was meant to be his execution into the bloody murder of his captors. Finally free and waiting within the underbelly of the Cursed Apple, he wishes to reach "apotheosis" by completing the ritual .
+
+## SECTION: Lightning Ball
+LIGHTNING BALL 1 7 s 26 s
+Shoot a ball of lightning that travels in a straight line. Does damage to all targets in its radius . Slows down when damaging enemies and stops if it hits the world.
+Upgrades: 1 1 Charges ; 2 -35% move speed on hit targets and +1s Lifetime ; 5 +58.5 DPS and +1.5m radius
+
+## SECTION: Static Charge
+STATIC CHARGE 15 m 42 s
+Apply a charge to a target enemy hero. After a short duration, the static charge stuns and damages enemies within the radius.
+Upgrades: 1 -20 s Cooldown ; 2 +7m Radius +5m Cast range ; 5 +0.9s Stun Duration +160 Damage
+
+## SECTION: Power Surge
+POWER SURGE 10 s 50 s
+Power up your weapon with a shock effect, making your bullets proc shock damage on your target . This shock damage bounces to enemies near your target. Occurs once per burst shot.
+Upgrades: 1 -18 s Cooldown ; 2 +3m Move Speed +8 Damage and increased scaling ; 5 +12s Duration Applies -15% Spirit Resist
+
+## SECTION: Storm Cloud
+STORM CLOUD 7 s 30 m 180 s
+Channel an expanding storm cloud around you that damages all enemies within its radius. Enemies do not take damage when they are out of line-of-sight.
+While channeling, press Fire to mark the targeted area to be struck with a powerful lightning bolt that knocks enemies away after a 0.25s delay. One use per cast.
+Upgrades: 1 +55% Bullet Resist while channeling Storm Cloud ; 2 +7s Channel Time +10m Radius ; 5 +65s DPS +4m Flight Speed
+
+## SECTION: Backstory
+See Seven/Lore for more story content.
+
+## SECTION: Trivia
+- Seven was named Gigawatt in Neon Prime .
+- Seven's chestplate has numbers that form a Gorowase , a form of Japanese wordplay with numbers. 4279 can be read as Shi (4) Ni (2) Na (7) Ku (9) = Shininaku (死になく), or "Become unkillable" (rough translation).
+- Seven's name may be a reference to Numerology , in which the number 7 is associated with spirituality and the search for knowledge.
+- Seven was the only hero with a limping animation which played when he was low on health. This has since been removed.
+- "Plotting in the Hideout" is displayed as one's status in the in-game Friends List when playing as Seven in the Hideout .
+- Seven's character select line "With these hands I will destroy, and with these hands I will rebuild" is a quote from the song The Good Doctor by The Protomen.

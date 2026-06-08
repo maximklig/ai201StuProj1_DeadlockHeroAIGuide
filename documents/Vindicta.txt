@@ -1,0 +1,57 @@
+HERO: Vindicta
+SOURCE: https://deadlock.wiki/Vindicta
+============================================================
+
+## SECTION: Overview
+Tags: Sniper Soaring One Shot Kill
+Damage Per Second : | 53.4
+Bullet Damage : | 12.3 +0.495 x 0.022
+Ammo : | 19
+Bullets per sec : | 4.33
+Reload Time : | 2.91s
+Bullet Velocity : | 660m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 755 +29
+Health Regen : | 2
+Move Speed : | 7.9m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 2
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Eden Riegel
+Release Date : | April 24, 2024
+Codenames: | Hornet
+Vindicta is a Hero in Deadlock . She is a mobile and powerful marksman, engaging and picking off her targets from a distance. Using her Crow Familiar to initiate fights by bleeding her targets, Vindicta may launch into Flight to keep her distance from enemies and tether them with a Stake in the ground while targeting them with her powerful rifle. Enemies that are near-death should fear her ability to Assassinate at long-range with a devastating sniper shot.
+A girl who was accused of witchcraft and killed by John Hathorne during the Salem Witch Trials of the 1600s, Vindicta returned to this world during the first Maelstrom . Seeking to protect her fellow supernatural entities, Vindicta is waging a war against the Neo-inquisitorial " Friends of Humanity ".
+
+## SECTION: Stake
+STAKE 40 s
+Throw a stake that tethers enemies to the location where the stake lands. Enemy movement is restricted to the length of the tether.
+Upgrades: 1 65 Damage ; 2 -20 s Cooldown ; 5 +0.75s Tether Duration and +2m Capture Radius
+
+## SECTION: Flight
+FLIGHT 0.2 s 13 s 42 s
+Leap into the air and fly . While in flight your weapon deals bonus spirit damage and your items have increased range.
+Upgrades: 1 +50% base Ammo while flying ; 2 10 s Duration ; 5 Hero Kills Refresh Duration. +10 Spirit Damage with increased Spirit scaling
+
+## SECTION: Crow Familiar
+CROW FAMILIAR 32 s
+Your crow familiar deals impact damage , reduces their bullet resist and applies a bleed that deals damage based on the target's current health .
+Upgrades: 1 Applies -35% Healing Reduction ; 2 +0.5% Bleed Damage -12s Cooldown ; 5 +2s Duration -8% Bullet Resist -8% Spirit Resist
+
+## SECTION: Assassinate
+ASSASSINATE 2 2.5 s 50 s
+Use your scoped rifle to fire a powerful shot over long distances. Deal only partial damage until fully charged after 1s of being scoped. Does bonus damage to enemies with less than 50% health remaining. Landing a killing blow on a player with Assassinate grants you bonus weapon damage .
+Upgrades: 1 -20 s Cooldown ; 2 80 Max Bonus Damage ; 5 +4 % Weapon Damage Per Kill
+
+## SECTION: Backstory
+See Vindicta/Lore for more story content.
+
+## SECTION: Trivia
+- Vindicta was named Hornet in Neon Prime . Hornet was voiced by Jeannie Tirado, who also voices Ivy .
+- Vindicta's current model was designed by artist Evgeniy Evstrastiy .
+- Vindicta will occasionally hum the song Simple Gifts after using a shot of her ultimate. This is a song that originated from the Shaker religion in the early 1800s.
+- "Brooding in the Hideout" is displayed as one's status in the in-game Friends List when playing as Vindicta in the Hideout . She shares this status with Victor .

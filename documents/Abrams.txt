@@ -1,0 +1,66 @@
+HERO: Abrams
+SOURCE: https://deadlock.wiki/Abrams
+============================================================
+
+## SECTION: Overview
+Tags: Tank Brawler Bull-Headed
+Damage Per Second : | 51.4
+Bullet Damage : | 3.6 +0.1
+Pellets per shot : | 9
+Ammo : | 9
+Bullets per sec : | 1.59
+Reload Time : | 0.353s
+Bullet Velocity : | 610m/s
+Light Melee : | 50 +1.74
+Heavy Melee : | 116 +4.03
+Health : | 800 +52
+Health Regen : | 1.5
+Move Speed : | 6.4m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Samoa Joe
+Release Date : | April 24, 2024
+Codenames: | Atlas; Bull
+Abrams is a Hero in Deadlock . He is a hard-boiled, hard-hitting bruiser of a character that focuses on engaging groups of enemies and relying on his high health, high damage output, and life draining ability to stay in the fight. With a powerful area stun and a devastating shoulder charge, Abrams can isolate fragile targets from the rest of the team and set-up his more damaging allies to finish them off.
+A capable and well-known detective of New York, Abrams solved crimes ranging from kidnappings to ritual murders. One day, a mysterious Tome was left on his desk with a note of "Don't let them have it" scrawled in Onyx blood; followed by car bombings and break-ins to his office. Now, Abrams is trying to figure out just what the hell is going on.
+
+## SECTION: Weapon
+Case Closed has a 0.7s delay to start reloading after shooting a shell. It takes 0.35s to start reloading and 0.35s to reload each shell. Reloading all shells takes 3.5s.
+
+## SECTION: Siphon Life
+SIPHON LIFE 8 m 4 s 42 s
+Drain health from nearby enemies, dealing spirit damage over time and healing for a portion of the damage dealt.
+Upgrades: 1 -20 s Cooldown ; 2 2 s Duration ; 5 +3m Radius and +18 DPS with improved Spirit scaling
+
+## SECTION: Shoulder Charge
+SHOULDER CHARGE 1.4 s 33 s
+Charge forward, pulling enemies you hit. Pushing a hero into a wall applies stun . If you collide with a hero you move faster during your charge.
+Upgrades: 1 Applies +40% Slow for 3s ; 2 On Wall Hit: +0.8s Stun Duration ; 5 -20s Cooldown On Hero Collide: +1.5 Weapon Damage for 6 s
+
+## SECTION: Infernal Resilience
+INFERNAL RESILIENCE
+Gain bonus defensive attributes. Taking damage grants temporary regeneration for a portion of the damage taken.
+Upgrades: 1 +200 Max Health ; 2 18 % Melee Lifesteal ; 5 +20% Debuff Resist and +8% Damage Regenerated
+
+## SECTION: Seismic Impact
+SEISMIC IMPACT 185 s
+Leap high into the air before crashing into the ground, dealing spirit damage and applying stun .
+Upgrades: 1 -35 s Cooldown ; 2 0.8 s Stun Duration ; 5 On cast, become Unstoppable for 6s and +6m Impact Radius
+
+## SECTION: Backstory
+See Abrams/Lore for more story content.
+
+## SECTION: Trivia
+- Abrams was named Atlas in Neon Prime , and also known as Bull . The icon for Infernal Resilience previously had a bull design.
+- Abrams is voiced by Samoa Joe , a professional wrestler. Haze may call Abrams a "juggernaut". Samoa Joe voiced the character Juggernaut in the "Call of the Bladeform Legacy" arcana voice pack in Dota 2 , and later in Dota Underlords .
+- Abrams' Tome contains a ripped page matching Oathkeeper's sign.
+- The first version of Abrams' Tome in-game used textures from TF2's Bombinomicon.
+- In The Binding of Oathkeeper artwork, Abrams has spikes on his back.
+- Abrams was the only hero who had unique animations in the shop menu screen. These animations have been removed.
+- Abrams was made slightly taller in an unlisted patch change around November 2024.
+- Abrams' updated model was first leaked in the 2024-12-06 Update , and later removed. Compared to the final model, this version had slightly different facial hair and still had his old book model.
+- "Investigating the Hideout" is displayed as one's status in the in-game Friends List when playing as Abrams in the Hideout .

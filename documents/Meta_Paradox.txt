@@ -1,0 +1,6 @@
+HERO: Paradox
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Paradox is a C-tier champion with 46.9% win rate and 29.0% pick rate in Patch 2026.

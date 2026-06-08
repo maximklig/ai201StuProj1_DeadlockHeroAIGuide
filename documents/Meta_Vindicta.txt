@@ -1,0 +1,6 @@
+HERO: Vindicta
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Vindicta is a C-tier champion with 48.2% win rate and 25.6% pick rate in Patch 2026.

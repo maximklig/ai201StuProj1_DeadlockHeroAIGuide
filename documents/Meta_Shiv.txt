@@ -1,0 +1,6 @@
+HERO: Shiv
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Shiv is a D-tier champion with 46.5% win rate and 34.2% pick rate in Patch 2026.

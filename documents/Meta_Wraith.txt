@@ -1,0 +1,6 @@
+HERO: Wraith
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Wraith is a C-tier champion with 48.7% win rate and 37.5% pick rate in Patch 2026.

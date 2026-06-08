@@ -1,0 +1,58 @@
+HERO: Grey Talon
+SOURCE: https://deadlock.wiki/Grey_Talon
+============================================================
+
+## SECTION: Overview
+Tags: Precision Hunter Area Denial
+Damage Per Second : | 40.7
+Bullet Damage : | 23.5 +1 x 0.08
+Ammo : | 17
+Bullets per sec : | 1.73
+Reload Time : | 2.35s
+Bullet Velocity : | 495m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 780 +40
+Health Regen : | 1.5
+Move Speed : | 6.3m/s x 0.0084
+Sprint Speed : | 1.6m/s
+Dash Speed : | 16.1m/s
+Stamina : | 4
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.6
+Information
+Voice Actor: | Robbie Daymond
+Release Date : | April 24, 2024
+Codenames: | Archer; Orion
+Grey Talon is a Hero in Deadlock . He is a clever, long-range combatant that uses his powerful bow in combination with traps and mystical flight to pin down and destroy his foes. With the ability to charge his arrow shot for powerful effect, Grey Talon can harry his foes at a distance before launching a guided Spirit Owl to finish them off.
+A founder of the monster hunting organisation The Baxter Society , Grey Talon happily retired after 40 years of service to support his extended family. He was living well until he was alerted that that his son and daughter-in-law had died in a mysterious house fire. Now, he hunts the perpetrators of the arson, bow in hand.
+
+## SECTION: Charged Shot
+CHARGED SHOT 1 4 s 17 s
+Charge up a powerful shot that pierces through enemies. Hold Ability 1 or Fire to hold the shot.
+Upgrades: 1 1 Charges ; 2 +54 Damage ; 5 Improved damage scaling and -3s Charge Delay
+
+## SECTION: Rain of Arrows
+RAIN OF ARROWS 4 s 22 s
+Launches you high in the air, allowing you to glide slowly. While airborne, you gain Weapon Damage and multishot on your weapon . Alternate cast for reduced jump height. Press Jump / mantle to cancel the glide.
+Upgrades: 1 While airborne, +3 Weapon Damage and weapon damage applies 30% movement slow for 1.5s ; 2 -13 s Cooldown ; 5 While airborne, +30% Bullet Lifesteal, +30% Spirit Lifesteal and +30% Bullet Evasion
+
+## SECTION: Spirit Snare
+SPIRIT SNARE 6.5 m 34 s
+Throw out a trap that begins to arm itself. Once armed, the trap will trigger when an enemy enters its radius, applying Curse and Movement Slow that interrupts, Silences, Disarms , and prevents item usage . Hit the trap with a Charged Shot to detonate early with increased radius.
+Upgrades: 1 -20 s Cooldown ; 2 Applies -15% Bullet Resist for 10s ; 5 +1s Curse Duration and +1.5m Radius
+
+## SECTION: Guided Owl
+GUIDED OWL 20 s 110 s
+After 1.5s cast time, launch a spirit owl that you control and which explodes on impact, damaging and stunning enemies. Hold Move forward to accelerate the owl. Press Jump / mantle to release control. Gain permanent Spirit Power for each enemy hero killed with Guided Owl.
+Upgrades: 1 85 Damage ; 2 -45 s Cooldown ; 5 After hit, kills enemies that are below 22% Health
+
+## SECTION: Backstory
+See Grey Talon/Lore for more story content.
+
+## SECTION: Trivia
+- Grey Talon's current model is inherited from his design in Neon Prime , in which he was called Orion . Based on datamined textures, he wore a visor and had a long beard. He had an animal labeled "archer_pet", which was reused as the creature in Trapper 's cage.
+- The current design for Spirit Snare resembles a dreamcatcher .
+- Grey Talon's bow was originally called Koschei .
+- A Work-In-Progress remodel for Grey Talon was found in the files in the Shop Rework Update . The model depicted Grey Talon as tall, muscular, and bald.
+- "Mourning in the Hideout" is displayed as one's status in the in-game Friends List when playing as Grey Talon in the Hideout .

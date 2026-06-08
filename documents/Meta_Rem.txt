@@ -1,0 +1,6 @@
+HERO: Rem
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Rem is a B-tier champion with 49.1% win rate and 43.3% pick rate in Patch 2026.

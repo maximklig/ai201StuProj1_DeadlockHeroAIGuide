@@ -1,0 +1,6 @@
+HERO: Drifter
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Drifter is a B-tier champion with 50.3% win rate and 35.7% pick rate in Patch 2026.

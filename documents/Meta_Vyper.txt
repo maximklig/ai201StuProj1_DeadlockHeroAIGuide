@@ -1,0 +1,6 @@
+HERO: Vyper
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Vyper is a D-tier champion with 45.0% win rate and 15.8% pick rate in Patch 2026.

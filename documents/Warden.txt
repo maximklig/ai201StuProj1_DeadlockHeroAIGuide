@@ -1,0 +1,58 @@
+HERO: Warden
+SOURCE: https://deadlock.wiki/Warden
+============================================================
+
+## SECTION: Overview
+Tags: Initiator Fearless One Man Army
+Damage Per Second : | 66.1
+Bullet Damage : | 17.3 +0.34
+Ammo : | 17
+Bullets per sec : | 3.81 x 0.01
+Reload Time : | 2.91s
+Bullet Velocity : | 290m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 805 +63
+Health Regen : | 2
+Move Speed : | 6.3m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Rick D. Wasserman
+Release Date : | April 24, 2024
+Codenames: | Murphy
+Warden is a Hero in Deadlock . He is a tough, tenacious brawler with a technique for alchemy and fighting the supernatural. Opening fights with either a Binding Word or a disrupting Alchemical Flask, Warden dashes into the fight to brawl at close range and utilizing his Willpower for protection and staying power. In desperate situations, Warden can trigger his Last Stand, damaging and stealing life from all foes in front of him.
+The descendant of a long line of militant alchemists, Warden's ancestors once trained vigorously for the day they would have to stave off a mystic apocalypse. But as time passed, the meaning behind the training was lost, causing Warden's parents to be unprepared for the first maelstrom . With the apocalypse on the horizon, Warden was trained since birth, forged into a weapon built specifically towards stopping the Patrons from ever entering our world, no matter the cost.
+
+## SECTION: Alchemical Flask
+ALCHEMICAL FLASK 5.5 m 12 s
+Throw a flask that damages and reduces the weapon damage and move speed of enemies it hits.
+Upgrades: 1 Hit enemies lose 1 Stamina ; 2 +40 Damage and -20% Weapon Damage ; 5 -7s Cooldown and +2m Radius Applies -30% Fire Rate
+
+## SECTION: Willpower
+WILLPOWER 5 s 40 s
+Gain a Barrier and bonus move speed .
+Upgrades: 1 +20 % Move Speed bonus ; 2 -22s Cooldown and +2s Duration ; 5 +40% Debuff Resistance and improved Barrier scaling
+
+## SECTION: Binding Word
+BINDING WORD 15 m 34 s
+Curse an enemy hero. If they don't move away from their initial position within the escape time , they will be damaged and immobilized .
+Upgrades: 1 Warden deals +20% more Bullet Damage to trapped Heroes for 5s ; 2 +0.75s Duration ; 5 -18s Cooldown Silences enemies until they escape or are immobilized
+
+## SECTION: Last Stand
+LAST STAND 12 m 6 s 155 s
+After charging for 2s, release pulses that damage enemies and heal you based on the damage done. While channeling Last Stand you have greatly increased bullet and spirit resist .
+Upgrades: 1 4 m Radius ; 2 +40.5 DPS -30s Cooldown ; 5 +3s Duration Unstoppable and +30% Resists while channeling
+
+## SECTION: Backstory
+See Warden/Lore for more story content.
+
+## SECTION: Trivia
+- Warden was named Murphy in Neon Prime . This name was reused for the new character of Captain Murphy in Holliday 's visual novel . He may have been named after the protagonist of the 1987 movie Robocop , as Murphy was a robot peacekeeper in Neon Prime's sci-fi setting.
+- Despite his appearance, Warden is not a police officer. A concept sketch for Warden's upcoming redesign can be seen in one of Yamato's concept artwork released by Yoshi . The Shopkeeper may ask Warden if he would be interested in selling his cape, despite Warden's current model not having one. The Newscaster voice line for Warden's Winter skin challenge also makes a reference to his upcoming redesign, asking "What will he look like next?"
+- Warden's backstory shares themes with Arc Warden from Dota 2, who similarly wants to stop the conflict between the Ancients at any cost.
+- "Training in the Hideout" is displayed as one's status in the in-game Friends List when playing as Warden in the Hideout .
+- Warden appears in a graffiti in the Counter-Strike 2 community map "Warden".

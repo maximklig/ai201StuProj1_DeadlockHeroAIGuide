@@ -1,0 +1,6 @@
+HERO: Lady Geist
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Lady Geist is a B-tier champion with 50.7% win rate and 30.0% pick rate in Patch 2026.

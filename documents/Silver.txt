@@ -1,0 +1,90 @@
+HERO: Silver
+SOURCE: https://deadlock.wiki/Silver
+============================================================
+
+## SECTION: Overview
+Tags: Feral Hot Mess Transformation
+Damage Per Second : | 42
+Bullet Damage : | 5.1 +0.117
+Pellets per shot : | 7
+Ammo : | 7
+Bullets per sec : | 1.18
+Reload Time : | 0.3s
+Bullet Velocity : | 813m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 830 +29
+Health Regen : | 2.5
+Move Speed : | 6.7m/s
+Sprint Speed : | 1.5m/s
+Dash Speed : | 14.7m/s
+Stamina : | 2
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Erica Lindbeck
+Release Date : | February 2, 2026
+Codenames: | Werewolf
+Damage Per Second : | 50
+Bullet Damage : | 25 +0.774
+Ammo : | N/A
+Bullets per sec : | 2
+Reload Time : | N/A
+Bullet Velocity : | 254m/s
+Silver is a Hero in Deadlock , making her living tracking down lowlifes, but today New York’s misanthrope lycanthrope plans on summoning a god. Fortunately, her career as a bounty hunter has prepared her well for all that the ritual requires. She makes quick work of adversaries by catching them with her Entangling Bola, Boot Kicking them in the face, and finishing them off with a Slam Fire from her rifle. But inevitably, the Lycan Curse comes calling whether she likes it or not, and her foes will regret being too close when it does.
+Lilah Silver has been a werewolf for as long as she can remember, insisting that she has her Lycanthropy under control. Despite her successes as a bounty hunter, Silver struggles with alcohol, smoking, financial, and personal troubles on a daily basis, driving her to seek the Patron 's help to "thrive".
+Silver was released on February 2, 2026 as the third winner of the Old Gods, New Blood update contest.
+
+## SECTION: Weapon
+Hair of the Dog reloads single shots and the reload can be interrupted.
+Loose Muzzle only hits enemies in melee range, in a cone-shaped attack that can hit multiple enemies. The range cannot be increased by items such as Sharpshooter . It has no ammo count and no reload, and does not deal headshot damage. It does proc Weapon item effects such as Ricochet .
+Split Shot has no effect on Loose Muzzle.
+
+## SECTION: Abilities
+Silver is unique among heroes in having two distinct sets of abilities — one for her default (human) form and one for her transformed (werewolf) form — which swap automatically when Lycan Curse transforms her. Her ultimate, Lycan Curse, is shared between both forms and triggers the transformation.
+
+## SECTION: Slam Fire
+SLAM FIRE 0.0254 m 5 s 25 s
+Instantly reload your gun. You gain bonus fire rate and deal bonus weapon damage based on the target's health for a limited number of shots, but suffer from reduced accuracy.
+Upgrades: 1 +15 % Weapon Damage ; 2 -10 s Cooldown ; 5 If you hit all shots, deal +7% current health as damage
+
+## SECTION: Boot Kick
+BOOT KICK 0.35 s 10.6 m 21 s
+Dash forward and kick the first enemy hit, dealing melee damage while pushing yourself off and marking them.
+Shooting the marked target deals spirit damage and removes the mark.
+Upgrades: 1 -6 s Cooldown ; 2 On Hero Hit: Restore 2 Stamina ; 5 +80 Bonus Damage and kicked enemies deal -35% Damage for 5s
+
+## SECTION: Entangling Bola
+ENTANGLING BOLA 23 s
+Throw a bola, dealing spirit damage , applying slow and preventing movement abilities or stamina.
+Upgrades: 1 -25 % Move Speed ; 2 -8 s Cooldown ; 5 +0.75s Debuff Duration. Bola ricochets to 2 additional targets
+
+## SECTION: Go For The Throat
+GO FOR THE THROAT 7.5 m 6.5 s
+Deal melee damage to all enemies in front of you, receiving a heal for a portion of the damage dealt. The damage is increased the lower health they have.
+Upgrades: 1 30 Damage ; 2 25 % Lifesteal ; 5 4 % Missing Health as Damage
+
+## SECTION: Mauling Leap
+MAULING LEAP 0.55 s 18.1 m 16 s
+Leap forward, mauling the first enemy hit for melee damage . They suffer from reduced bullet resist and take spirit damage over time.
+Upgrades: 1 10 Damage Per Second ; 2 -9 s Cooldown ; 5 -12 % Bullet Resist
+
+## SECTION: Tail Whack
+TAIL WHACK 18 s
+Smash enemies around you, dealing spirit damage . They suffer from disarm and a brief slow .
+Upgrades: 1 25 Damage ; 2 -40 % Move Speed ; 5 +1.5s Debuff Duration
+
+## SECTION: Lycan Curse
+LYCAN CURSE 15 s 40 s
+Passive: Dealing damage generates bloodlust, increased at low health. At max bloodlust, you automatically cast Lycan Curse. Active: Instantly transform, gaining increased max health , and stacking fire rate on enemy heroes, and replacing your abilities and weapon with their ferocious versions.
+Upgrades: 1 +20% Bullet & Spirit Resistance ; 2 +4 m/s Move Speed and 200 Bonus Health ; 5 On Hero Kill: Refresh abilities, duration, and transformation heal
+
+## SECTION: Trivia
+- During development, Silver was originally codenamed Shapeshifter , whose name was leaked in November 2025.
+- Silver had a scrapped ability where she tracked bounties during the match, as indicated by unused voicelines still in the files.
+- The name of Silver's weapon, Hair of the Dog , is a shortening of the expression Hair of the Dog that Bit You , referring to alcohol consumed to lessen the effect of a hangover.
+- Silver is the first hero to possess a weapon without a traditional projectile or ranged option, as her primary fire in Werewolf form swings her claws to maim enemies in melee range. She's also the first hero to have two sets of abilities.
+- "Figuring Out What Happened Last Night in the Hideout" is displayed as one's status in the in-game Friends List when playing as Silver in the Hideout .
+- Silver's name is an ironic reference to the fact that silver is a common weakness to werewolves. The Patrons tell the player to find silver bullets to stop an enemy Silver. It's also a common component-word primarily to describe appearance of non-human specimen (e.g. "silver back", "silver fang", etc.).
+- Silver's release date, February 2, 2026, was under a full moon, a common association with werewolves.
+- Silver's hairstyle is known as a Wolf Cut, originally known as a Shag .

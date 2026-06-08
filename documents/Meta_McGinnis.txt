@@ -1,0 +1,6 @@
+HERO: McGinnis
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+McGinnis is a A-tier champion with 52.5% win rate and 23.0% pick rate in Patch 2026.

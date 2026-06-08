@@ -1,0 +1,6 @@
+HERO: Haze
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Haze is a A-tier champion with 51.9% win rate and 47.5% pick rate in Patch 2026.

@@ -1,0 +1,6 @@
+HERO: Yamato
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Yamato is a B-tier champion with 50.6% win rate and 32.5% pick rate in Patch 2026.

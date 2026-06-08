@@ -1,0 +1,6 @@
+HERO: Billy
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Billy is a A-tier champion with 51.6% win rate and 44.9% pick rate in Patch 2026.

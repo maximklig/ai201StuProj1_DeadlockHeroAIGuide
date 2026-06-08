@@ -1,0 +1,6 @@
+HERO: Sinclair
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Sinclair is a F-tier champion with 44.5% win rate and 17.2% pick rate in Patch 2026.

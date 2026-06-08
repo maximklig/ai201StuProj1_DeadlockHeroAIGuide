@@ -1,0 +1,6 @@
+HERO: Abrams
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Abrams is a A-tier champion with 52.8% win rate and 34.7% pick rate in Patch 2026.

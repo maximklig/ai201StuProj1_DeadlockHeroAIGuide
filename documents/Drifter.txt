@@ -1,0 +1,65 @@
+HERO: Drifter
+SOURCE: https://deadlock.wiki/Drifter
+============================================================
+
+## SECTION: Overview
+Tags: Stalker Bloodthirsty Cruel
+Damage Per Second : | 44.2
+Bullet Damage : | 19.5 +0.616
+Pellets per shot : | 3
+Ammo : | 12
+Bullets per sec : | 2.27
+Reload Time : | 2.44s
+Bullet Velocity : | 508m/s
+Light Melee : | 51.5 +1.58
+Heavy Melee : | 120 +3.68
+Crit Bonus Scale : | -45%
+Health : | 755 +41
+Health Regen : | 3.5
+Move Speed : | 6.9m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Matt Mercer
+Release Date : | August 27, 2025
+Drifter is a Hero in Deadlock . Something ancient has arrived in New York... a nameless horror known only as the Drifter. Relentless as time, as certain as death, once Drifter sets his eyes on a victim there's nothing they can do to stop him. They can try to run, but his Bloodscent drives him forward, leading him to isolated prey. Even if they manage to escape it doesn't matter, as Stalker's Mark allows Drifter to appear right behind his enemies before lunging in for the kill with a vicious Rend. Soon Eternal Night comes, and a faint whistling in the breeze will be joined by a chorus of screams.
+A feral vampire with ties to Louisiana, Drifter has open contempt for the rules of vampire society, leaving a trail of carnage wherever he goes.
+Drifter was released on August 27, 2025 as the fifth hero of the Six New Heroes update (fourth winner of hero vote).
+
+## SECTION: Weapon
+Crimson Grasp deals the same amount of bullet damage to a target regardless of how many pellets hit per shot. It deals no damage beyond its max range.
+
+## SECTION: Rend
+REND 16 m 16 s
+Swipe at enemies in a cone ahead of you, dealing spirit damage . If the enemy is in close range , deal bonus melee damage .
+Upgrades: 1 40 Bonus Damage ; 2 -7s Cooldown ; 5 Deals Heavy Melee Damage Silences enemies for 2.3s if close range
+
+## SECTION: Stalker's Mark
+STALKER'S MARK 5 s 20 s
+Send out a mark that bleeds the first target it hits, dealing spirit damage over time . While the enemy is bleeding you can re-activate Stalker's Mark to instantly appear behind their back.
+Upgrades: 1 -8% Bullet Resist ; 2 -8s Cooldown and +3s Duration ; 5 +2% Bleed and -40% Healing Reduction
+
+## SECTION: Bloodscent
+BLOODSCENT 80 m
+Isolated heroes leave a trail as they move, and emit their heartbeat from afar. You deal amplified damage against isolated heroes, and when isolated heroes die nearby you gain permanent weapon damage .
+Upgrades: 1 +2m/s Move Speed when around an isolated enemy hero ; 2 On isolated hero death: Heal 18% of your missing health and restores 2 Stamina ; 5 12 % Amplified Damage
+
+## SECTION: Eternal Night
+ETERNAL NIGHT 100 m 6.5 s 125 s
+Surround nearby enemy heroes in darkness, severely limiting their vision of other units . Affected enemies are briefly revealed to you and are considered isolated for the duration. You gain bonus sprint speed .
+Upgrades: 1 +10 m Sprint Speed ; 2 -45 s Cooldown ; 5 +2.5s Duration and +1 Max Targets.
+
+## SECTION: Backstory
+See Drifter/Lore for more story content.
+
+## SECTION: Trivia
+- Drifter was one of the heroes in a private build who was accidentally leaked on stream in May 2025.
+- Drifter leaves claw marks when sliding on a wall.
+- Drifter's forward air dash and wall jump animation resembles the pounce animation of the Hunter, a recurring enemy in Valve's Left 4 Dead series. He also previously had other animations similar to the Hunter's attack and run.
+- "Prowling in the Hideout" is displayed as one's status in the in-game Friends List when playing as Drifter in the Hideout .
+- Players under the effect of Drifter's "Eternal Night" ability are able to hear an eerily whistled rendition of Hush, Little Baby , a lullaby typically sung by mothers to their children. During the 2025 winter event, one of three Christmas songs would be whistled instead; Joy to the World , Twelve Days of Christmas , and God Rest Ye Merry, Gentlemen .
+- Drifter has marks on his arms and hands that seem to be based on the hobo signs .
+- Lash calls Drifter a " murder hobo ", a term commonly used to describe RPG players who kill NPCs indiscriminately. Drifter's voice actor Mat thew Mercer is well-known as the Dungeon Master of the Dungeons & Dragons webseries Critical Role .

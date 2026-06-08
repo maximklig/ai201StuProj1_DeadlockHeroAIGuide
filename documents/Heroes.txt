@@ -1,0 +1,149 @@
+HERO: Heroes
+SOURCE: https://deadlock.wiki/Heroes
+============================================================
+
+## SECTION: Overview
+— New York Oracle
+Heroes are the playable characters of Deadlock .
+There are currently 38 heroes available, with more to be released as the game develops.
+Heroes
+Hero Labs Abrams Hero Labs Apollo Hero Labs Bebop Hero Labs Billy Hero Labs Calico Hero Labs Celeste Hero Labs The Doorman Hero Labs Drifter Hero Labs Dynamo Hero Labs Graves Hero Labs Grey Talon Hero Labs Haze Hero Labs Holliday Hero Labs Infernus Hero Labs Ivy Hero Labs Kelvin Hero Labs Lady Geist Hero Labs Lash Hero Labs McGinnis Hero Labs Mina Hero Labs Mirage Hero Labs Mo & Krill Hero Labs Paige Hero Labs Paradox Hero Labs Pocket Hero Labs Rem Hero Labs Seven Hero Labs Shiv Hero Labs Silver Hero Labs Sinclair Hero Labs Venator Hero Labs Victor Hero Labs Vindicta Hero Labs Viscous Hero Labs Vyper Hero Labs Warden Hero Labs Wraith Hero Labs Yamato
+
+## SECTION: Overview
+Heroes come in a wide variety in Deadlock, each with their own specialisations and playstyles. Each hero wields their own unique primary weapon which has its own name, stats and weapon type. Weapons are affected by Weapon Class Items and are the primary means of dealing damage for most heroes. Some weapons possess an alternate fire mode activated with RMB .
+Besides their weapons, heroes also possess 4 unique abilities with a variety of effects. Some abilities are completely passive, and will always be active regardless (such as Abrams ' Infernal Resilience ), though most are simply activated with their respective bindings ( 1 , 2 , 3 , 4 by default). Abilities come with up to 3 upgrades, which can be purchased with an increasing number of Ability Points . Abilities most often scale with Spirit Power .
+Heroes have set base stats that they can improve through leveling up or purchasing items . They also have additional Power Increases , gained at specific levels which grant bonuses to specific stats. Heroes can hold up to 12 individual items at a time, so long as they conform to their categories and Extra Slots . Some hero stats are also affected by Spirit Power , referred to as Spirit Scaling.
+38 heroes are available in the current alpha build, with additional characters confirmed for future releases.
+
+## SECTION: List of Heroes and Abilities
+Tank Brawler Bull-Headed
+51 Damage Per Second
+Finesse Mobility A Cut Above
+49 Damage Per Second
+Hook Bomb Punch
+59 Damage Per Second
+Punk Chaotic G.O.A.T.
+74 Damage Per Second
+Tricksy Slippery Burst Damage
+79 Damage Per Second
+Performer Disruptive Dazzling
+31 Damage Per Second
+Disorienting Map Control Mind Games
+46 Damage Per Second
+Stalker Bloodthirsty Cruel
+44 Damage Per Second
+Teamplay Initiator Clutch
+48 Damage Per Second
+Morbid Area Denial Necromancer
+35 Damage Per Second
+Precision Hunter Area Denial
+41 Damage Per Second
+Assassin Stealthy Lethal
+50 Damage Per Second
+Crackshot Explosive Apprehender
+42 Damage Per Second
+Arsonist Explosive Burn Rubber
+52 Damage Per Second
+Team-up Disruptor Rock Solid
+61 Damage Per Second
+Protector Explorer Ice Cold
+71 Damage Per Second
+Lifesteal Self Damage Fatale
+Initiator High Flying Arrogant
+Inventor Support Disruption
+76 Damage Per Second
+Harasser Nimble Vexing
+29 Damage Per Second
+Bodyguard Traveller Focused
+40 Damage Per Second
+Tag-Team Initiator Burrower
+60 Damage Per Second
+Helpful Protector Booksmart
+70 Damage Per Second
+Calculated Disruptor Tactician
+Trickster Burst Damage Frogs
+57 Damage Per Second
+Helpful Tiny zZzzZ
+62 Damage Per Second
+High Voltage Merciless Area Denial
+63 Damage Per Second
+Rage Bleed Repeat
+Feral Hot Mess Transformation
+Trickster Copycat Versatile
+Devout Arms Expert Tactical
+You Can't Kill Me
+Sniper Soaring One Shot Kill
+53 Damage Per Second
+Evasive Disruptor Gooey
+Gunner Slippery Rat-a-Tat
+94 Damage Per Second
+Initiator Fearless One Man Army
+66 Damage Per Second
+Duelist Isolator Telekinetic
+Relentless Acrobatics Pursuer
+
+## SECTION: Model Sheets
+Gallery of unofficial hero reference sheets.
+- Abrams reference sheet
+- Apollo reference sheet
+- Bebop reference sheet
+- Billy reference sheet
+- Calico reference sheet
+- Celeste reference sheet
+- The Doorman reference sheet
+- Drifter reference sheet
+- Dynamo reference sheet
+- Graves reference sheet
+- Grey Talon reference sheet
+- Haze reference sheet
+- Holliday reference sheet
+- Infernus reference sheet
+- Ivy reference sheet
+- Kelvin reference sheet
+- Lady Geist reference sheet
+- Lash reference sheet
+- McGinnis reference sheet
+- Mina reference sheet
+- Mirage reference sheet
+- Mo & Krill reference sheet
+- Paige reference sheet
+- Paradox reference sheet
+- Pocket reference sheet
+- Rem reference sheet
+- Seven reference sheet
+- Shiv reference sheet
+- Silver reference sheet
+- Sinclair reference sheet
+- Venator reference sheet
+- Victor reference sheet
+- Vindicta reference sheet
+- Viscous reference sheet
+- Vyper reference sheet
+- Warden reference sheet
+- Wraith reference sheet
+- Yamato reference sheet
+
+## SECTION: Unused Heroes
+There are a number of heroes in Deadlock that can, or could only be accessed using console commands . Some of them are older heroes inherited from Neon Prime , while others were added to the game more recently. Some of these heroes were playable in the Hero Labs experimental gamemode, and were later removed.
+- Boho
+- The Boss
+- Cadence
+- Druid
+- Fathom
+- Fortuna
+- Graf
+- Gunslinger
+- Kali
+- Raven
+- Rutger
+- Skyrunner
+- Swan
+- Thumper
+- Tokamak
+- Trapper
+- Vandal
+- Wrecker
+
+## SECTION: Trivia
+- At one point in early development, the Heroes were called Fates . The Hero backstories were previously called "A Fate's Tale" .
+- In the French localization, the Heroes are called Occultistes .

@@ -1,0 +1,6 @@
+HERO: Warden
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Warden is a C-tier champion with 48.6% win rate and 26.9% pick rate in Patch 2026.

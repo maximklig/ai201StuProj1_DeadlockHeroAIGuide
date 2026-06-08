@@ -1,0 +1,6 @@
+HERO: Ivy
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Ivy is a A-tier champion with 52.5% win rate and 27.2% pick rate in Patch 2026.

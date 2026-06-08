@@ -1,0 +1,62 @@
+HERO: Pocket
+SOURCE: https://deadlock.wiki/Pocket
+============================================================
+
+## SECTION: Overview
+Tags: Trickster Burst Damage Frogs
+Damage Per Second : | 57.1
+Bullet Damage : | 4.28 +0.2
+Pellets per shot : | 7
+Ammo : | 11
+Bullets per sec : | 1.9
+Reload Time : | 2.82s
+Bullet Velocity : | 559m/s
+Light Melee : | 60 +1.58
+Heavy Melee : | 116 +3.05
+Health : | 780 +38
+Health Regen : | 1
+Spirit Resist : | -15%
+Move Speed : | 7.2m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Pronouns: | They/Them
+Voice Actor: | Greg Chun
+Release Date : | April 24, 2024
+Codenames: | Synth; Fairfax
+Pocket is a Hero in Deadlock . With a powerful shotgun and highly mobile abilities, they thrive in close encounters. Channelling their magic briefcase to Barrage groups of enemies with spiritual bursts, Pocket may use their sentient cloak to teleport beside their targets and unload their shotgun; disappearing inside their Enchanter's Satchel to avoid return fire. In larger groups, they can unleash an Affliction to slowly eat away at their health, setting their enemies up for a devastating attack.
+The eldest heir to Fairfax Industries , Arin "Pocket" Fairfax has been in hiding for over 5 years after a failed assassination attempt. Fearing for their life and wishing to chart their own path, the newly nicknamed Pocket has been keeping their original identity secret while investigating who had tried to kill them.
+
+## SECTION: Barrage
+BARRAGE 2 s 4.5 m 32 s
+Channel to start launching projectiles that deal spirit damage and apply slow around their impact point. Projectiles that hit a hero grant Pocket increased damage that stacks . Casting while airborne will cause Pocket to float . Casting AirDash or Flying Cloaking will not cancel Barrage.
+Upgrades: 1 16 Damage Per Projectile ; 2 -16 s Cooldown ; 5 +4% Amp Per Stack and 3m Radius
+
+## SECTION: Flying Cloak
+FLYING CLOAK 5 m 25 s
+Launch a sentient cloak that travels forward and damages enemies . You can press Ability 2 to teleport to its location.
+Upgrades: 1 70 Damage ; 2 +5 Weapon Damage for 6s ; 5 +1.6s Lifetime and -13s Cooldown.
+
+## SECTION: Enchanter's Satchel
+ENCHANTER'S SATCHEL 1.5 s 12 m 17 s
+Escape into your suitcase. When the duration ends, deal spirit damage to nearby enemies. Duration can be ended early by performing any action.
+Upgrades: 1 -5 s Cooldown ; 2 90 Damage ; 5 +1.5s Duration +4m Radius -40% Move Speed and Fire Rate for 4s
+
+## SECTION: Affliction
+AFFLICTION 9 m 150 s
+Applies damage over time to enemies nearby. Affliction's damage is non-lethal and does not apply item procs.
+Upgrades: 1 -40 s Cooldown ; 2 +3s Duration and +4m Radius ; 5 Prevents all healing +14 DPS with increase Spirit scaling
+
+## SECTION: Backstory
+See Pocket/Lore for more story content.
+
+## SECTION: Trivia
+- Pocket was named Synth in Neon Prime . They were later renamed to Fairfax .
+- Pocket is voiced by Greg Chun , who also voices Shiv .
+- A possible inspiration for Pocket's kit is the hero Puck from Dota 2 . Besides having similar names, both Pocket and Puck have the abilities to send a slow moving projectile that damages enemies and that they can teleport to, deal AOE burst damage, and become invulnerable for a short time by going into hiding.
+- "Sulking in the Hideout" is displayed as one's status in the in-game Friends List when playing as Pocket in the Hideout .
+- Pocket's backstory and abilities have some similarities to the Biblical Plagues of Egypt : the death of the firstborn, the plague of frogs, and the pestilence (Affliction).
+- In Pocket's original model, their left hand had an eye tattoo on its back and a decayed skin tissue that glowed with the suitcase.

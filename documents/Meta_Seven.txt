@@ -1,0 +1,6 @@
+HERO: Seven
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Seven is a S-tier champion with 57.5% win rate and 55.4% pick rate in Patch 2026.

@@ -1,0 +1,6 @@
+HERO: Infernus
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Infernus is a B-tier champion with 49.9% win rate and 43.0% pick rate in Patch 2026.

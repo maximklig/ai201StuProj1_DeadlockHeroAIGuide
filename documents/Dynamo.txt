@@ -1,0 +1,62 @@
+HERO: Dynamo
+SOURCE: https://deadlock.wiki/Dynamo
+============================================================
+
+## SECTION: Overview
+Tags: Teamplay Initiator Clutch
+Damage Per Second : | 48
+Bullet Damage : | 12.6 +0.5
+Ammo : | 20
+Bullets per sec : | 3.81
+Reload Time : | 2.35s
+Bullet Velocity : | 320m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Health : | 880 +64
+Health Regen : | 1.8
+Bullet Resist : | 0% +0.625
+Move Speed : | 6.7m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 14.3m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | John Patrick Lowrie
+Release Date : | April 24, 2024
+Codenames: | Prof_dynamo; Prof; Sumo; Jeong
+Professor Dynamo is a Hero in Deadlock . He is a man of wit, using his brain and his brawn to provide support to his teammates by healing them, teleporting them, knocking his opponents into the air, and when the time is right, unleashing a Singularity which can drastically shift the tides of battle.
+Once just a mere professor for Columbia College, his life would change after letting his ego get the best of him when he and his team of professors were studying an Astral Gate in New York. Dynamo ventured too close to the anomaly which obliterated his body and reduced it to that of a dying star. But that didn't stop him, because although his body may be gone, his spirit and curiosity live on, with his condition only further fueling his desire for knowledge and a way out of his metal body.
+
+## SECTION: Kinetic Pulse
+KINETIC PULSE 1 5 s 26 s
+Release an energy pulse that travels along the ground, dealing spirit damage and applying knockup .
+Upgrades: 1 +1 Charge ; 2 On Hit: -15% Bullet Resist and -30%</spawn> Move Speed for 4s ; 5 +135 Damage and +20m Cast Range
+
+## SECTION: Quantum Entanglement
+QUANTUM ENTANGLEMENT 10 m 1.4 s 20 s
+Briefly become untargetable while teleporting to the target location. Restores stamina upon use. Alternate cast : Bring nearby allies with you.
+Upgrades: 1 6 m Cast Range ; 2 -6 s Cooldown ; 5 Reduces non-ult debuffs by 50% Replenishes 1 Charge
+
+## SECTION: Rejuvenating Aurora
+REJUVENATING AURORA 5 s 48 s
+While channeling, restore health over time to you and any allies nearby. You can dash and melee without breaking the channel.
+Upgrades: 1 Aura provides +4m Move Speed during channel ; 2 -20 Cooldown and +1s Duration ; 5 Full move and ability use and additionally heals +2.5% of Max Health per second
+
+## SECTION: Singularity
+SINGULARITY 2.75 s 230 s
+Create a singularity in your hands, dealing < spirit damage over time , applying stun , and pulling in nearby enemies.
+Upgrades: 1 2 m Singularity Radius ; 2 0.75 s Channel Duration ; 5 6 % Max Health as Damage
+
+## SECTION: Backstory
+See Dynamo/Lore for more story content.
+
+## SECTION: Trivia
+- Dynamo is also referred to as prof (Professor) in the game files.
+- Dynamo was named Sumo in Neon Prime , and later renamed to Jeong . He was renamed to Dynamo still during Neon Prime .
+- Dynamo is voiced by John Patrick Lowrie , who is known for voicework in other popular Valve titles (e.g. Sniper in Team Fortress 2, Pudge in Dota 2.) In The Binding of Oathkeeper , Dynamo was voiced by Fred Tatasciore , as John wasn't available for recording. These voice lines have since been re-recorded with John. Some of Dynamo's voice lines were based on conversations between John and Deadlock writer Steve Jaros about quantum physics.
+- The name of Dynamo's weapon, the Vonnegun , is an homage to American author Kurt Vonnegut . Ironically, Vonnegut was famously a pacifist and claimed that a virtuous scientist was one who refused to develop weapons. This may also be a reference to Vonnegut's short story Report on the Barnhouse Effect , about a professor who develops the power of telekinesis and calls it "dynamopsychism".
+- When casting Quantum Entanglement, a crest of the sun with a planetary body orbiting around it appears as a destination marker. The crest is styled after Renaissance depictions of the sun, as it sports a hatched style and a serene face.
+- In a concept artwork and in The Binding of Oathkeeper , Dynamo had a different design in which his head had a different shape and was attached to his body, and he wore gloves.
+- One of Dynamo's early concept designs was a paranormal pizza delivery guy called Lil' Dynamo .
+- "Pontificating in the Hideout" is displayed as one's status in the in-game Friends List when playing as Dynamo in the Hideout .

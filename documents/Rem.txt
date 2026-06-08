@@ -1,0 +1,69 @@
+HERO: Rem
+SOURCE: https://deadlock.wiki/Rem
+============================================================
+
+## SECTION: Overview
+Tags: Helpful Tiny zZzzZ
+Damage Per Second : | 61.5
+Bullet Damage : | 16 +0.34
+Ammo : | 13
+Bullets per sec : | 3.85
+Reload Time : | 2s
+Bullet Velocity : | 160m/s
+Light Melee : | 58 +1.58
+Heavy Melee : | 116 +3.16
+Crit Bonus Scale : | -20%
+Health : | 680 +29
+Health Regen : | 2
+Crit Reduction : | 10%
+Melee Resist : | -5%
+Move Speed : | 7.2m/s
+Sprint Speed : | 4m/s
+Dash Speed : | 14.7m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Release Date : | January 26, 2026
+Codenames: | Familiar
+Rem is a Hero in Deadlock . An accidental stowaway from the world of dreams, Rem has found himself stranded in the city that never sleeps. Pillow fights are Rem's preferred form of conflict, tossing his favorite pillow at enemies to knock them back when they're getting too close. His friends, however, he likes to keep nearby - leaping to their aid when things get dicey and taking a quick nap on their shoulder. His Lil Helpers are curious creatures, taking interest in everything the streets of New York have to offer, and cheering on his allies as they go. Ultimately when Naptime hits, no one will be able to keep their eyes open.
+A sleepy child from a world of dreams, Rem and his little helpers found themselves stranded in New York. Searching the five boroughs for a way home, Rem seeks to summon the Patrons so he can finally return to his family.
+Rem was released on January 26, 2026 as the first winner of the Old Gods, New Blood update contest.
+
+## SECTION: Innate
+Rem can enter vents in the map by crouching, but he cannot enter while in combat.
+
+## SECTION: Weapon
+Long Night has a subtle "aim assist" effect, in which the projectiles bend towards the enemy when close to Rem's crosshair. This is more noticeable when landing headshots, and is offset by Rem's outgoing headshot reduction.
+
+## SECTION: Pillow Toss
+PILLOW TOSS 40 m 5 m 1 8 s 25 s
+Throw your trusty pillow inflicting spirit damage and heavy knockback . Landing hits reduces the cooldown of your other abilities.
+Upgrades: 1 -7 s Cooldown ; 2 +2m Radius and applies -35% Fire Rate ; 5 +100 Damage and +1 Charge
+
+## SECTION: Tag Along
+TAG ALONG 23 m 5.5 s 40 s
+Jump to an ally and nap alongside them. Both you and the ally receive a burst heal based on missing health followed by lingering regeneration . Hop between allies with Ability 2 to apply the heal, once per ally. You are knocked off if stunned by an ultimate ability. You can use items and all self-casts target your ally instead.
+Upgrades: 1 -8 s Cooldown ; 2 35% Bonus Item Range, Duration, and Barrier Effectiveness while napping ; 5 +15% Spirit Power and +35 Spirit Power while napping and for 10s after napping Improved Spirit Scaling
+
+## SECTION: Lil Helpers
+LIL HELPERS 45 m
+Signal a Helper to lend a hand. They can collect boxes, do Sinner's Sacrifices, or be sent to support allies and troopers. Follow a hero: Provides a short burst of spirit resist and fading move speed . Follow a trooper: Provides healing, damage, resists, and allows tagging along. When no hero is around, souls from trooper kills are split amongst the team. Can be cast during Tag Along. Helpers will take a nap for 15.1s after following someone.
+Upgrades: 1 +1 Helper ; 2 +8% Spirit Resist +1.5m/s Move Speed ; 5 +2 Helpers +20% Trooper Damage and Resist
+
+## SECTION: Naptime
+NAPTIME 1.9 s 24 m 19 m 175 s
+Cast your gaze forward, piercing walls and floors. Enemies in the gaze are slowed, have reduced dash distance, and cannot use movement abilities. When the channel ends they fall asleep before waking up to a splitting headache that deals heavy spirit damage .
+Upgrades: 1 -1 Stamina On Wake and no Stamina Regen while sleeping ; 2 +3m Radius and +0.75s Sleep Duration ; 5 -65s cooldown Reduced damage and unstoppable while channeling
+
+## SECTION: Backstory
+See Rem/Lore for more story content.
+
+## SECTION: Trivia
+- Rem has a secret room in the Hideout that can be accessed by entering the vents behind the news computer or the large statue in the Atrium, then climbing over the boiler machine in the backroom.
+- Rem was originally leaked in November 2025 with a screenshot of the character's select screen. On 20th January 2026 , Rem was teased in the Hideout with a pillow in a chair.
+- Rem's name references Rapid Eye Movement , a unique and active phase of sleep in which most dreaming occurs.
+- Rem's hybrid anatomy of bird and mammal resembles that of a wingless Griffin or Keythong in ancient mythology.
+- Rem's pyjamas resemble popular depictions of the Sandman in Germanic and Scandinavian folklore.
+- Rem has a line where he dreams about mangos, which are the favorite fruit of developer Icefrog and an item in Dota 2 .
+- "Having Sweet Dreams in the Hideout" is displayed as one's status in the in-game Friends List when playing as Rem in the Hideout .

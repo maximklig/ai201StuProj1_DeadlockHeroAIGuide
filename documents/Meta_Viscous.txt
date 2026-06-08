@@ -1,0 +1,6 @@
+HERO: Viscous
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Viscous is a C-tier champion with 47.1% win rate and 19.9% pick rate in Patch 2026.

@@ -1,0 +1,6 @@
+HERO: Apollo
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Apollo is a B-tier champion with 49.4% win rate and 19.7% pick rate in Patch 2026.

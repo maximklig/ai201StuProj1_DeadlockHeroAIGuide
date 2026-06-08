@@ -1,35 +1,28 @@
 # Project 1 Planning: The Unofficial Guide
 
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
-
 ---
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+The Domain I chose pertains to the unreleased Valve game, "Deadlock". Deadlock is a MOBA 3rd person hero shooter
+and has a mix of game mechanics that may be difficult for players to understand. In addition Deadlock is technically in
+alpha / playtest, continously updating with weekly and even daily patches that have the potential to change the game completely.
+With this being said, any new player who gets invited to the play test are thrust upon new game mechanics, an immense 
+roster of heroes, and what seems to be an obscene amount of items/abilities to choose from to work specifically with their specific character.
+I would also like to pointout that I have been playing the game for roughly 2 years and have amounted to 850~ hours.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
-
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #      | Source      | URL or location                                 | Description                                         |
+|--------|-------------|-------------------------------------------------|-----------------------------------------------------| 
+| 1      | URL/Scraper | https://deadlock.wiki/Hero_Comparison_Table     | Comparative stats across all heroes                 |
+| 2      | URL/Scraper | https://deadlock.wiki/Heroes                    | General hero mechanics, how abilities work          |
+| 3      | URL/Scraper | https://metabot.gg/en/deadlock/heroes/tier-list | Win rates, pick rates, meta context                 |
+| 4 - 41 | URL/Scraper | https://deadlock.wiki/[Hero Name]               | Abilities, stats, lore per hero                     |
+| 42     | URL/Scraper | https://deadlock.wiki/Abilities                 | How ability unlocks, upgrades, spirit scaling works |
+| 43     | URL/Scraper | https://deadlock.wiki/Items                     | Item builds, what synergizes with abilities         |
 
 ---
 
@@ -40,11 +33,13 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size: 400 Characters (ROughly 80 - 100 tokens)**
 
-**Overlap:**
+**Overlap: 80 characters (roughly 16 - 20 tokens)**
 
-**Reasoning:**
+**Reasoning: 400 characters with 80 characters is enough to capture a sentence from the deadlock wiki. 
+Sentences are long though to capture an idea about a specific ability, item, or hero specific detail but
+short enough to not go endlessley into specifics.**
 
 ---
 
@@ -56,11 +51,13 @@
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model: Groq - all-MiniLM-L6-v2 via sentence-transformers**
 
-**Top-k:**
+**Top-k: 5**
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection: If possible I would use a llm such as GPT-4o to have better context awarness,
+reasoning for output, and nuanced output that helps the beginning player understand some game mechanics/heroes. 
+**
 
 ---
 
@@ -71,13 +68,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| # | Question                                                                              | Expected answer |
+|---|---------------------------------------------------------------------------------------|-----------------|
+| 1 | Does Haze throw a knife when using her ultimate ability (or ult for deadlock jargon)? | |
+| 2 | How many playable heroes are in the game?                                             | |
+| 3 | What tier is Ivy placed at?                                                           | |
+| 4 | What is Ivy's pick rate and win rate?                                                 | |
+| 5 | Does Haze have a passive ability?                                                     | |
 
 ---
 
@@ -87,19 +84,36 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. An issue which can occur is inconsistency in font and layout for the heroes in the wiki
+leading to an issue in which the scraper / url converter exports the wrong information, or misses information.
 
-2.
+2. Another issue I forsee are chunk splicing in where the chunks don't hold the full sentence of data and get clipped 
+and are unable to give the user asking the query a fully informative answer, a wrong answer, or a partial answer.
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+┌─────────────────────┐
+│  Document Ingestion │  ← requests + BeautifulSoup (wiki.deadlock.gg)
+└────────┬────────────┘
+         │
+┌────────▼────────────┐
+│      Chunking       │  ← custom chunk_text() — 400 char / 80 overlap
+└────────┬────────────┘
+         │
+┌────────▼────────────┐
+│  Embedding +        │  ← sentence-transformers (all-MiniLM-L6-v2)
+│  Vector Store       │    + ChromaDB (local)
+└────────┬────────────┘
+         │
+┌────────▼────────────┐
+│     Retrieval       │  ← ChromaDB similarity search, top-k = 5
+└────────┬────────────┘
+         │
+┌────────▼────────────┐
+│     Generation      │  ← LLM (course-specified) + retrieved chunks as context
+└─────────────────────┘
 
 ---
 
@@ -116,7 +130,15 @@
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+For the ingestion portion I will be converting the above URLs into a raw data JSON file. The tags
+will be abilities 1-3, pasive or active, upgrades, the 3 tags assocaited with the hero's, overview of the heroes,
+the heroes weapon name, and specifics. This will be done using a scraper.py (BeautifulSOup and requests).
+There will be a chunk_text() function that adheres to those parameters set and will tag each chunk with hero name + 
+source section. The strategy will be to have the Chunks contain 400 characters with an 80 character overlap.
 
 **Milestone 4 — Embedding and retrieval:**
+I will code to embed chunks with the Groq API Key - all-MiniLM-L6-v2 and store it all into a chromaDB collection.
 
 **Milestone 5 — Generation and interface:**
+I will make a query function that takes a user question, retrieves top-5 chunks, and passes them to an
+LLM with a prompt. 

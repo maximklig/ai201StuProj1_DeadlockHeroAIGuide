@@ -1,0 +1,61 @@
+HERO: Calico
+SOURCE: https://deadlock.wiki/Calico
+============================================================
+
+## SECTION: Overview
+Tags: Tricksy Slippery Burst Damage
+Damage Per Second : | 78.9
+Bullet Damage : | 1.84 +0.043
+Pellets per shot : | 9
+Ammo : | 12
+Bullets per sec : | 4.76
+Reload Time : | 2.6s
+Bullet Velocity : | 318m/s
+Light Melee : | 63 +1.58
+Heavy Melee : | 116 +2.91
+Health : | 730 +39
+Health Regen : | 2
+Move Speed : | 6.8m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 16.1m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Voice Actor: | Toks Olagundoye
+Release Date : | January 17, 2025
+Codenames: | Nano
+Calico is a Hero in Deadlock , a former monster hunter turned hired assassin. Possessing her cat, Ava, Calico uses the shadows to her advantage to surprise her foes, slinging Gloom Bombs and attacking with a Leaping Slash for damage and healing. By Returning to the Shadows, she can turn any fight to her advantage, disappearing after a fight or engaging again when the enemy least expects her.
+As a contract killer, Calico is glad to finally be earning significant money by assassinating other people. Despite the good that the Baxter Society did by slaying monsters, it simply didn't pay well enough for her.
+Calico was added to Hero Labs on October 24, 2024 , and officially released on January 17, 2025 .
+
+## SECTION: Gloom Bombs
+GLOOM BOMBS 3 m 14 s
+Throw a cluster of bombs that detonate after a delay, dealing spirit damage . Enemies hit by multiple bombs take 65% damage.
+Upgrades: 1 -3 s Cooldown ; 2 --5% Melee Resist per bomb for 5s ; 5 3 Bomb Count
+
+## SECTION: Leaping Slash
+LEAPING SLASH 9 m 13 s
+Dash forward before slashing all enemies in a circle, dealing melee damage . If the ability hits at least one hero, heal a small amount of health.
+Upgrades: 1 25 Heal Amount ; 2 Heros killed within 3s grant +200 souls ; 5 +60 Damage & On Hero Hit: 50% Cooldown Refund
+
+## SECTION: Ava
+AVA 30 s
+Turn to shadows and possess Ava. You gain bonus move speed that increases over time, and become hidden on the minimap . Taking damage from an enemy hero resets your bonus move speed and puts Ava on a brief cooldown.
+Upgrades: 1 15 s Buff Duration ; 2 +15 Health Regen & +45% Max Move Speed ; 5 Gain Damage Amp over time, up to 20% . Lingers for 6s
+
+## SECTION: Return to Shadows
+RETURN TO SHADOWS 3 s 7.5 m 100 s
+Instantly turn to shadows, becoming untargetable , gaining bonus move speed , and dealing spirit damage . After a delay, return from the shadows, dealing spirit damage again.
+Upgrades: 1 -25 s Cooldown ; 2 +65 Damage and +20% Move Speed ; 5 On Completion: Heal for 350 and refund all ability cooldowns
+
+## SECTION: Backstory
+See Calico/Lore for more story content.
+
+## SECTION: Trivia
+- Calico was called Nano in Neon Prime .
+- At one point in development, Calico's gameplay style was inspired by Dota's Broodmother .
+- Calico was an arms dealer in her original background. Her background was changed when she was officially released on January 17, 2025 .
+- Ava is a Sphynx cat . Ironically, she's not a Calico cat , as her skin has no spots of different colors.
+- "Playing With Ava in the Hideout" is displayed as one's status in the in-game Friends List when playing as Calico in the Hideout .
+- When in the Hideout's Atrium, switching to Ava and then running near the smaller version of her will cause the kitten to follow you for the duration of the spell.

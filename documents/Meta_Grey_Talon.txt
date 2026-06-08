@@ -1,0 +1,6 @@
+HERO: Grey Talon
+SOURCE: https://metabot.gg/en/deadlock/heroes/tier-list
+============================================================
+
+## SECTION: Tier & Meta
+Grey Talon is a B-tier champion with 50.6% win rate and 32.9% pick rate in Patch 2026.

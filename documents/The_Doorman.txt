@@ -1,0 +1,67 @@
+HERO: The Doorman
+SOURCE: https://deadlock.wiki/The_Doorman
+============================================================
+
+## SECTION: Overview
+Tags: Disorienting Map Control Mind Games
+Damage Per Second : | 46.4
+Bullet Damage : | 29.3 +1.1
+Ammo : | 8
+Bullets per sec : | 1.59
+Reload Time : | 2.4s
+Bullet Velocity : | 203m/s
+Light Melee : | 50 +1.58
+Heavy Melee : | 116 +3.67
+Crit Bonus Scale : | -25%
+Health : | 755 +44
+Health Regen : | 1
+Move Speed : | 7.9m/s
+Sprint Speed : | 1.6m/s
+Dash Speed : | 16.1m/s
+Stamina : | 3
+Stamina Cooldown : | 4.5s
+Spirit Power : | 0 +1.1
+Information
+Release Date : | August 22, 2025
+The Doorman is a Hero in Deadlock . He's proper, he's polite, but the humble Doorman of The Baroness Hotel is more than meets the eye. A brisk ring of his Call Bell leaves nearby enemies disoriented, and his high-speed Luggage Cart knocks them right off their feet. Do you find yourself getting lost easily in the streets of Manhattan? Don't worry, The Doorman is here to provide a shortcut with his Doorway whenever the need arises. And only the most special of enemies get to experience the trip of a lifetime to The Baroness Hotel.
+A self-described "Fledgling God" and possibly a cosmic being of some repute, the Doorman planned to experience life on this material plane of humanity for only a few weeks. After a few odd encounters and interactions, he quickly decided to remain as a simple doorman within the New York service industry to continue observing the strange demands that please humans.
+The Doorman was released on August 22, 2025 as the third hero of the Six New Heroes update (second winner of hero vote).
+
+## SECTION: Weapon
+Service With A Smile can pierce through enemies. It deals 50% less damage after the first target.
+
+## SECTION: Call Bell
+CALL BELL 5.5 m 4 s 1 6 s 18 s
+Throw out a call bell that deals spirit damage on impact. After a short delay it explodes, dealing additional spirit damage and causing affected enemies to suffer reduced weapon accuracy and movement slow . Can be shot to detonate early.
+Upgrades: 1 +1 Charge ; 2 +30 Impact Damage +40 Explosion Damage ; 5 +4.5m Radius +26s Bell Lifetime Improved Scaling
+
+## SECTION: Doorway
+DOORWAY 50 m 20 s 40 s
+Place two connected doors in the world. Players and most projectiles entering one door will exit out through the other. The doors will close at the end of the duration. The two doors must be placed within the doorway distance of each other.
+Upgrades: 1 15 s Duration ; 2 Grants a Barrier first time traveling through doors ; 5 +30m Cast Range. +45m Doorway Distance and scales with Spirit Power.
+
+## SECTION: Luggage Cart
+LUGGAGE CART 25 m 6 s 30 s
+Send out a luggage Cart that deals spirit damage and pulls enemy heroes along its path. Can be alt cast with Alternate cast to target friendly heroes instead.
+If the cart collides with a wall while dragging an enemy, it will deal bonus damage to the targets.
+Upgrades: 1 60 Cart Damage ; 2 +20m Cast Range +75 Damage on wall impact ; 5 -15s Cooldown and 1.25s stun on wall impact
+
+## SECTION: Hotel Guest
+HOTEL GUEST 1 s 7 m 6.5 s 120 s
+Send the target's physical body to be a guest at the Baroness Hotel. The guest is to promptly make their way to the exit elevator, where they'll be sent back to their original position. A stay at the Baroness Hotel is paid for in spirit damage . Failure to check-out on time costs additional spirit damage .
+Upgrades: 1 1 Stamina Drain and -25 Cooldown ; 2 +150 Damage +1.5s Stun on Failure to Check Out ; 5 Unstoppable while the Baroness is occupied. 13s Cooldown on Failure to Check Out.
+
+## SECTION: Backstory
+See The Doorman/Lore for more story content.
+
+## SECTION: Trivia
+- A possible inspiration for the Doorman is the hero concept Frynd Leeman by player Onennon on the Deadlock forums. Like the Doorman, Frynd is a tall, gaunt, ancient, mysterious figure who works a service job (originally an innkeeper) to learn more about humans, and uses keys as his weapon. Abilities include opening door portals in the map, summoning a magic cart, and opening a portal to their domain.
+- The Doorman has longer taunt voice lines that play for an enemy if they are killed inside the Baroness.
+- Every map in the game has a hidden copy of the Baroness Hotel room. The Doorman's ultimate cannot be used in maps that don't have the hotel room.
+- According to leaks and datamining, a previous version of the Baroness was designed more like a randomized labyrinth in which players had to find the exit door.
+- The Doorman was one of the heroes in a private build who was accidentally leaked on stream in May 2025.
+- The Doorman's Doorway ability summons one orange portal and one blue portal, similar to Valve's game Portal .
+- According to developer Kaori , the Doorman's voice actor is a stage actor on his first video game role.
+- "At Your Service in the Hideout" is displayed as one's status in the in-game Friends List when playing as The Doorman in the Hideout .
+- The Doorman had the closest winning difference in the Six New Heroes contest, beating Paige by only 0.85%.
+- Unlike most heroes, The Doorman doesn't have bot support for Co-op vs Bot matches.
