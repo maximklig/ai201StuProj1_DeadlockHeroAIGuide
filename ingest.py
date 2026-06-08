@@ -36,13 +36,30 @@ SECTION_MARKER = "## SECTION:"
 # --------------------------------------------------------------------------- #
 # Cleaning
 # --------------------------------------------------------------------------- #
+# Map fancy Unicode punctuation to plain ASCII so chunks render consistently
+# everywhere (terminals, JSON viewers) and search behaves predictably. These
+# are real characters from the wiki (e.g. em dashes in captions, curly quotes),
+# not corruption - they just display as "?" in some consoles.
+_PUNCT_NORMALIZE = {
+    "‘": "'", "’": "'",          # ‘ ’ curly single quotes
+    "“": '"', "”": '"',          # “ ” curly double quotes
+    "–": "-", "—": "-",          # – — en / em dashes
+    "…": "...",                        # … ellipsis
+    " ": " ", "​": "",            # non-breaking space, zero-width space
+    "�": "",                            # true replacement character
+}
+
+
 def clean_text(text: str) -> str:
-    """Normalise whitespace and strip leftover wiki artifacts."""
-    text = text.replace("\xa0", " ")
-    text = text.replace("�", "")                   # stray replacement glyphs
+    """Normalise punctuation/whitespace and strip leftover wiki artifacts."""
+    for src, dst in _PUNCT_NORMALIZE.items():
+        text = text.replace(src, dst)
     text = re.sub(r"\[edit\]", "", text)
     text = re.sub(r"\[\s*\d+\s*\]", "", text)       # reference markers [1] / [ 1 ]
+    # Tidy the wiki infobox "Label : | value" pattern into "Label: value".
+    text = re.sub(r"\s*:\s*\|\s*", ": ", text)
     text = re.sub(r"[ \t]+", " ", text)            # collapse runs of spaces/tabs
+    text = re.sub(r"\s+([.,;:!?])", r"\1", text)    # drop space before punctuation
     text = re.sub(r"\n{3,}", "\n\n", text)         # collapse blank-line runs
     # Trim trailing spaces on each line.
     text = "\n".join(line.rstrip() for line in text.splitlines())
