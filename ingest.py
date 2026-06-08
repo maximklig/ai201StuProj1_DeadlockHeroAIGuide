@@ -69,12 +69,54 @@ def clean_text(text: str) -> str:
 # --------------------------------------------------------------------------- #
 # Chunking
 # --------------------------------------------------------------------------- #
+# Split after sentence-ending punctuation (. ! ?) followed by whitespace.
+_SENT_SPLIT = re.compile(r"(?<=[.!?])\s+")
+
+
+def _split_units(text: str):
+    """
+    Break text into atomic units that must not be cut mid-way.
+
+    Splits on line breaks first (preserves the wiki's stat rows like
+    'Health: 800 +52'), then on sentence boundaries within each line.
+    """
+    units = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        for sentence in _SENT_SPLIT.split(line):
+            sentence = sentence.strip()
+            if sentence:
+                units.append(sentence)
+    return units
+
+
+def _split_long_unit(unit: str, size: int):
+    """Fallback for a single unit longer than `size`: split on word
+    boundaries so we still never cut a word in half."""
+    pieces, current = [], ""
+    for word in unit.split():
+        if current and len(current) + 1 + len(word) > size:
+            pieces.append(current)
+            current = word
+        else:
+            current = f"{current} {word}".strip()
+    if current:
+        pieces.append(current)
+    return pieces
+
+
 def chunk_text(text: str, size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP):
     """
-    Split text into overlapping character windows.
+    Split text into ~`size`-character chunks on sentence / line boundaries.
 
-    Each chunk is at most `size` characters; consecutive chunks share `overlap`
-    characters so a sentence split across a boundary is still recoverable.
+    Unlike a raw character window, this never cuts a word or sentence in half.
+    The text is broken into atomic units (stat lines and sentences) which are
+    greedily packed up to `size` characters. Consecutive chunks share roughly
+    `overlap` characters of trailing sentences, so context spanning a boundary
+    is still recoverable. A trailing sentence may push a chunk slightly over
+    `size` rather than be cut — keeping sentences whole is the goal here.
     """
     if overlap >= size:
         raise ValueError("overlap must be smaller than size")
@@ -85,14 +127,32 @@ def chunk_text(text: str, size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP):
     if len(text) <= size:
         return [text]
 
-    step = size - overlap
+    # Atomic units, with any oversized unit pre-split on word boundaries.
+    units = []
+    for unit in _split_units(text):
+        if len(unit) > size:
+            units.extend(_split_long_unit(unit, size))
+        else:
+            units.append(unit)
+
     chunks = []
-    for start in range(0, len(text), step):
-        piece = text[start:start + size].strip()
-        if piece:
-            chunks.append(piece)
-        if start + size >= len(text):
-            break
+    current = []  # units accumulated for the chunk currently being built
+
+    for unit in units:
+        # If adding this unit would exceed `size`, close the current chunk and
+        # seed the next one with trailing sentences worth ~`overlap` chars.
+        if current and len(" ".join(current + [unit])) > size:
+            chunks.append(" ".join(current))
+            carry = []
+            for prev in reversed(current):
+                if len(" ".join([prev] + carry)) > overlap:
+                    break
+                carry.insert(0, prev)
+            current = carry
+        current.append(unit)
+
+    if current:
+        chunks.append(" ".join(current))
     return chunks
 
 

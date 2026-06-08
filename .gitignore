@@ -16,5 +16,9 @@ env/
 chroma_db/
 chroma/
 
+# Personal notes — keep local, never commit
+readmeoutline.txt
+OutlineForMyself.txt
+
 # macOS
 .DS_Store
