@@ -781,7 +781,7 @@
     "hero": "Dynamo",
     "section": "Kinetic Pulse",
     "source": "https://deadlock.wiki/Dynamo",
-    "text": "KINETIC PULSE 1 5 s 26 s\nRelease an energy pulse that travels along the ground, dealing spirit damage and applying knockup.\nUpgrades: 1 +1 Charge; 2 On Hit: -15% Bullet Resist and -30%</spawn> Move Speed for 4s; 5 +135 Damage and +20m Cast Range"
+    "text": "KINETIC PULSE 1 5 s 26 s\nRelease an energy pulse that travels along the ground, dealing spirit damage and applying knockup.\nUpgrades: 1 +1 Charge; 2 On Hit: -15% Bullet Resist and -30% Move Speed for 4s; 5 +135 Damage and +20m Cast Range"
   },
   {
     "id": "Dynamo__Quantum_Entanglement__0",

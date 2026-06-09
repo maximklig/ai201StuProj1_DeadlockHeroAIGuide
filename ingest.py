@@ -56,6 +56,7 @@ def clean_text(text: str) -> str:
         text = text.replace(src, dst)
     text = re.sub(r"\[edit\]", "", text)
     text = re.sub(r"\[\s*\d+\s*\]", "", text)       # reference markers [1] / [ 1 ]
+    text = re.sub(r"</?[a-zA-Z][^>]*>", "", text)   # strip stray HTML tags like </spawn>
     # Tidy the wiki infobox "Label : | value" pattern into "Label: value".
     text = re.sub(r"\s*:\s*\|\s*", ": ", text)
     text = re.sub(r"[ \t]+", " ", text)            # collapse runs of spaces/tabs
